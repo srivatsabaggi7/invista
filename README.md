@@ -1,7 +1,6 @@
 # INVISTA - Intelligent Inventory Forecasting & Analytics
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen.svg)](https://github.com/your-username/invista)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stack: MERN + Python AI](https://img.shields.io/badge/Stack-MERN%20%2B%20Python%20AI-blue.svg)]()
 
 **INVISTA** is an enterprise-grade, AI-powered inventory management platform designed to optimize supply chain operations using **Agentic AI** and predictive analytics. The system integrates high-performance time-series forecasting with a multi-agent orchestration framework to automate complex reordering decisions while maintaining a human-in-the-loop approval mechanism.
