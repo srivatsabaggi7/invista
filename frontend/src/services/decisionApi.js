@@ -1,5 +1,5 @@
 export async function runDecision(payload) {
-  const res = await fetch("http://localhost:3001/api/decision/run", {
+  const res = await fetch("/api/decision/run", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({

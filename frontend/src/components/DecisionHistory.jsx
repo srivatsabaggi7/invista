@@ -9,7 +9,7 @@ export default function DecisionHistory({ refreshKey }) {
       setLoading(true);
       try {
         const res = await fetch(
-          `http://localhost:3001/api/admin/logs?ts=${Date.now()}`,
+          `/api/admin/logs?ts=${Date.now()}`,
           { cache: "no-store" }
         );
         const data = await res.json();

@@ -6,7 +6,7 @@ export default function AdminPanel() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3001/api/admin/agents")
+    fetch("/api/admin/agents")
       .then((r) => r.json())
       .then(setAgents);
   }, []);
@@ -16,7 +16,7 @@ export default function AdminPanel() {
     const newState = !agents[name].enabled;
     
     try {
-      await fetch("http://localhost:3001/api/admin/agents", {
+      await fetch("/api/admin/agents", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ agent: name, enabled: newState }),
