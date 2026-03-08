@@ -94,10 +94,3 @@ invista/
 
 ---
 
-## 🛡️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-*Developed by Birru Bhuvaneshwari Devi, Puvvula Kishan, Srivatsa V Baggi, and Vujjani Om Prakash.*
