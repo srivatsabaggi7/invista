@@ -1,0 +1,1900 @@
+[
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T08:14:41.444Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T08:33:21.637Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T08:52:56.675Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "DISABLED"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T08:58:20.535Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "DISABLED"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:07:59.911Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "DISABLED"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:12:25.286Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:16:18.452Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:34:42.044Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:35:30.944Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:44:30.340Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:45:42.266Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:46:37.415Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:49:47.516Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:54:59.061Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T11:58:56.905Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T12:01:15.511Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T12:04:19.575Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T12:16:57.908Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:17:29.384Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:17:56.584Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:18:11.205Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:22:00.627Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "HOLD"
+        },
+        "confidence": 0.8,
+        "explanation": "Inventory sufficient or supplier risk too high"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:22:10.608Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 930,
+          "reorder_point": 227.85,
+          "safety_stock": 10.85
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized order quantity considering demand and lead time"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-01-26T12:29:44.212Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 106.29,
+          "safety_stock": 13.29,
+          "lead_time_days": 3
+        },
+        "confidence": 0.95,
+        "explanation": "Reorder point computed using demand during lead time and safety stock based on service level uncertainty"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:29:50.917Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 106.29,
+          "safety_stock": 13.29,
+          "lead_time_days": 3
+        },
+        "confidence": 0.95,
+        "explanation": "Reorder point computed using demand during lead time and safety stock based on service level uncertainty"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "ORDER"
+        },
+        "confidence": 0.9,
+        "explanation": "Stock below reorder point with acceptable supplier risk"
+      }
+    }
+  },
+  {
+    "sku": "brake-pads",
+    "timestamp": "2026-01-26T12:30:03.844Z",
+    "result": {
+      "forecast": {
+        "agent": "DemandForecastAgent",
+        "status": "OK",
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41
+        },
+        "confidence": 0.95,
+        "explanation": "Estimated future demand using forecast ensemble"
+      },
+      "optimization": {
+        "agent": "InventoryOptimizationAgent",
+        "status": "OK",
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 106.29,
+          "safety_stock": 13.29,
+          "lead_time_days": 3
+        },
+        "confidence": 0.95,
+        "explanation": "Reorder point computed using demand during lead time and safety stock based on service level uncertainty"
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "status": "OK",
+        "output": {
+          "risk_level": "MODERATE"
+        },
+        "confidence": 0.8,
+        "explanation": "Supplier risk estimated based on lead time variability"
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "status": "OK",
+        "output": {
+          "anomaly_detected": false
+        },
+        "confidence": 0.9,
+        "explanation": "Checked recent demand for abnormal deviations"
+      },
+      "decision": {
+        "agent": "DecisionAgent",
+        "status": "OK",
+        "output": {
+          "decision": "HOLD"
+        },
+        "confidence": 0.8,
+        "explanation": "Inventory sufficient or supplier risk too high"
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-03-08T13:50:05.155Z",
+    "result": {
+      "forecast": {
+        "agent": "PredictiveDemandAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772977805.1236262,
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41,
+          "volatility_index": 0.046
+        },
+        "confidence": 0.95,
+        "explanation": "Forecasted demand averages 31.0 units with low volatility.",
+        "metadata": {
+          "range": [
+            29,
+            33
+          ],
+          "forecast_horizon": 5
+        }
+      },
+      "optimization": {
+        "agent": "OptimizationAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772977805.1252224,
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 160.2,
+          "safety_stock": 5.2,
+          "lead_time_days": 5
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized reorder point (160.2) maintains 95.0% service level based on demand variability during lead time (5 days).",
+        "metadata": {
+          "service_factor_z": 1.65,
+          "model": "Wilson-EOQ-Stochastic"
+        }
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772977805.1252224,
+        "output": {
+          "risk_level": "MODERATE",
+          "performance_score": 0.95
+        },
+        "confidence": 0.85,
+        "explanation": "Supplier risk is categorized as MODERATE based on current lead time (7 days) and performance stability (95.0%).",
+        "metadata": {
+          "risk_metrics": [
+            "LeadTime",
+            "Reliability"
+          ],
+          "alert_threshold": 0.8
+        }
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772977805.1252224,
+        "output": {
+          "anomaly_detected": false,
+          "anomaly_score": 0.05
+        },
+        "confidence": 0.92,
+        "explanation": "No significant anomalies detected in recent cycles.",
+        "metadata": {
+          "method": "Z-Score Analysis",
+          "sensitivity": "High"
+        }
+      },
+      "decision": {
+        "agent": "AutonomousDecisionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772977805.1252224,
+        "output": {
+          "decision": "ORDER",
+          "order_quantity": 434,
+          "reasoning_path": "Inventory -> ROP -> SupplierRisk -> FinalAction"
+        },
+        "confidence": 0.95,
+        "explanation": "Inventory (5) dropped below reorder point (160.2). Supplier risk is MODERATE. Recommending EOQ of 434.0 units.",
+        "metadata": {
+          "inventory_status": "CRITICAL",
+          "risk_mitigation_active": false
+        }
+      },
+      "orchestrator_meta": {
+        "execution_time_ms": 11.05,
+        "agents_active": [
+          "forecast",
+          "optimization",
+          "supplier",
+          "anomaly",
+          "decision"
+        ]
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-03-08T14:00:06.115Z",
+    "result": {
+      "forecast": {
+        "agent": "PredictiveDemandAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978406.0410402,
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41,
+          "volatility_index": 0.046
+        },
+        "confidence": 0.95,
+        "explanation": "Forecasted demand averages 31.0 units with low volatility.",
+        "metadata": {
+          "range": [
+            29,
+            33
+          ],
+          "forecast_horizon": 5
+        }
+      },
+      "optimization": {
+        "agent": "OptimizationAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978406.0420604,
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 160.2,
+          "safety_stock": 5.2,
+          "lead_time_days": 5
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized reorder point (160.2) maintains 95.0% service level based on demand variability during lead time (5 days).",
+        "metadata": {
+          "service_factor_z": 1.65,
+          "model": "Wilson-EOQ-Stochastic"
+        }
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978406.0420604,
+        "output": {
+          "risk_level": "MODERATE",
+          "performance_score": 0.95
+        },
+        "confidence": 0.85,
+        "explanation": "Supplier risk is categorized as MODERATE based on current lead time (7 days) and performance stability (95.0%).",
+        "metadata": {
+          "risk_metrics": [
+            "LeadTime",
+            "Reliability"
+          ],
+          "alert_threshold": 0.8
+        }
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978406.0420604,
+        "output": {
+          "anomaly_detected": false,
+          "anomaly_score": 0.05
+        },
+        "confidence": 0.92,
+        "explanation": "No significant anomalies detected in recent cycles.",
+        "metadata": {
+          "method": "Z-Score Analysis",
+          "sensitivity": "High"
+        }
+      },
+      "decision": {
+        "agent": "AutonomousDecisionAgent",
+        "status": "ERROR",
+        "timestamp": 1772978406.0420604,
+        "message": "Decision failed: 'current_stock'"
+      },
+      "orchestrator_meta": {
+        "execution_time_ms": 7.11,
+        "agents_active": [
+          "forecast",
+          "optimization",
+          "supplier",
+          "anomaly"
+        ]
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-03-08T14:01:35.297Z",
+    "result": {
+      "forecast": {
+        "agent": "PredictiveDemandAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978495.1950498,
+        "output": {
+          "avg_daily_demand": 31,
+          "uncertainty": 1.41,
+          "volatility_index": 0.046
+        },
+        "confidence": 0.95,
+        "explanation": "Forecasted demand averages 31.0 units with low volatility.",
+        "metadata": {
+          "range": [
+            29,
+            33
+          ],
+          "forecast_horizon": 5
+        }
+      },
+      "optimization": {
+        "agent": "OptimizationAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978495.196829,
+        "output": {
+          "EOQ": 434,
+          "reorder_point": 160.2,
+          "safety_stock": 5.2,
+          "lead_time_days": 5
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized reorder point (160.2) maintains 95.0% service level based on demand variability during lead time (5 days).",
+        "metadata": {
+          "service_factor_z": 1.65,
+          "model": "Wilson-EOQ-Stochastic"
+        }
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978495.196829,
+        "output": {
+          "risk_level": "MODERATE",
+          "performance_score": 0.95
+        },
+        "confidence": 0.85,
+        "explanation": "Supplier risk is categorized as MODERATE based on current lead time (7 days) and performance stability (95.0%).",
+        "metadata": {
+          "risk_metrics": [
+            "LeadTime",
+            "Reliability"
+          ],
+          "alert_threshold": 0.8
+        }
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978495.1986558,
+        "output": {
+          "anomaly_detected": false,
+          "anomaly_score": 0.05
+        },
+        "confidence": 0.92,
+        "explanation": "No significant anomalies detected in recent cycles.",
+        "metadata": {
+          "method": "Z-Score Analysis",
+          "sensitivity": "High"
+        }
+      },
+      "decision": {
+        "agent": "AutonomousDecisionAgent",
+        "status": "ERROR",
+        "timestamp": 1772978495.1986558,
+        "message": "Decision failed: 'current_stock'"
+      },
+      "orchestrator_meta": {
+        "execution_time_ms": 6.63,
+        "agents_active": [
+          "forecast",
+          "optimization",
+          "supplier",
+          "anomaly"
+        ]
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-03-08T14:06:48.355Z",
+    "result": {
+      "forecast": {
+        "agent": "PredictiveDemandAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978808.300511,
+        "output": {
+          "avg_daily_demand": 35.4,
+          "uncertainty": 1.2,
+          "volatility_index": 0.034
+        },
+        "confidence": 0.97,
+        "explanation": "Forecasted demand averages 35.4 units with low volatility.",
+        "metadata": {
+          "range": [
+            33,
+            37
+          ],
+          "forecast_horizon": 30
+        }
+      },
+      "optimization": {
+        "agent": "OptimizationAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978808.302021,
+        "output": {
+          "EOQ": 495.6,
+          "reorder_point": 109.63,
+          "safety_stock": 3.43,
+          "lead_time_days": 3
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized reorder point (109.6) maintains 95.0% service level based on demand variability during lead time (3 days).",
+        "metadata": {
+          "service_factor_z": 1.65,
+          "model": "Wilson-EOQ-Stochastic"
+        }
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978808.302021,
+        "output": {
+          "risk_level": "LOW",
+          "performance_score": 0.95
+        },
+        "confidence": 0.95,
+        "explanation": "Supplier risk is categorized as LOW based on current lead time (3 days) and performance stability (95.0%).",
+        "metadata": {
+          "risk_metrics": [
+            "LeadTime",
+            "Reliability"
+          ],
+          "alert_threshold": 0.8
+        }
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978808.3030264,
+        "output": {
+          "anomaly_detected": false,
+          "anomaly_score": 0.05
+        },
+        "confidence": 0.92,
+        "explanation": "No significant anomalies detected in recent cycles.",
+        "metadata": {
+          "method": "Z-Score Analysis",
+          "sensitivity": "High"
+        }
+      },
+      "decision": {
+        "agent": "AutonomousDecisionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772978808.3030264,
+        "output": {
+          "decision": "ORDER",
+          "order_quantity": 495.6,
+          "reasoning_path": "Inventory -> ROP -> SupplierRisk -> FinalAction"
+        },
+        "confidence": 0.95,
+        "explanation": "Inventory (25) dropped below reorder point (109.63). Supplier risk is LOW. Recommending EOQ of 495.6 units.",
+        "metadata": {
+          "inventory_status": "CRITICAL",
+          "risk_mitigation_active": false
+        }
+      },
+      "orchestrator_meta": {
+        "execution_time_ms": 4.53,
+        "agents_active": [
+          "forecast",
+          "optimization",
+          "supplier",
+          "anomaly",
+          "decision"
+        ]
+      }
+    }
+  },
+  {
+    "sku": "engine-oil",
+    "timestamp": "2026-03-08T14:11:28.732Z",
+    "result": {
+      "forecast": {
+        "agent": "PredictiveDemandAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772979088.679816,
+        "output": {
+          "avg_daily_demand": 32.03,
+          "uncertainty": 1.38,
+          "volatility_index": 0.043
+        },
+        "confidence": 0.96,
+        "explanation": "Forecasted demand averages 32.0 units with low volatility.",
+        "metadata": {
+          "range": [
+            30,
+            34
+          ],
+          "forecast_horizon": 30
+        }
+      },
+      "optimization": {
+        "agent": "OptimizationAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772979088.6814725,
+        "output": {
+          "EOQ": 448.42,
+          "reorder_point": 100.03,
+          "safety_stock": 3.94,
+          "lead_time_days": 3
+        },
+        "confidence": 0.95,
+        "explanation": "Optimized reorder point (100.0) maintains 95.0% service level based on demand variability during lead time (3 days).",
+        "metadata": {
+          "service_factor_z": 1.65,
+          "model": "Wilson-EOQ-Stochastic"
+        }
+      },
+      "supplier": {
+        "agent": "SupplierRiskAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772979088.6814725,
+        "output": {
+          "risk_level": "LOW",
+          "performance_score": 0.95
+        },
+        "confidence": 0.95,
+        "explanation": "Supplier risk is categorized as LOW based on current lead time (3 days) and performance stability (95.0%).",
+        "metadata": {
+          "risk_metrics": [
+            "LeadTime",
+            "Reliability"
+          ],
+          "alert_threshold": 0.8
+        }
+      },
+      "anomaly": {
+        "agent": "AnomalyDetectionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772979088.6830382,
+        "output": {
+          "anomaly_detected": false,
+          "anomaly_score": 0.05
+        },
+        "confidence": 0.92,
+        "explanation": "No significant anomalies detected in recent cycles.",
+        "metadata": {
+          "method": "Z-Score Analysis",
+          "sensitivity": "High"
+        }
+      },
+      "decision": {
+        "agent": "AutonomousDecisionAgent",
+        "version": "1.1.0",
+        "status": "OK",
+        "timestamp": 1772979088.6830382,
+        "output": {
+          "decision": "ORDER",
+          "order_quantity": 448.42,
+          "reasoning_path": "Inventory -> ROP -> SupplierRisk -> FinalAction"
+        },
+        "confidence": 0.95,
+        "explanation": "Inventory (25) dropped below reorder point (100.03). Supplier risk is LOW. Recommending EOQ of 448.42 units.",
+        "metadata": {
+          "inventory_status": "CRITICAL",
+          "risk_mitigation_active": false
+        }
+      },
+      "orchestrator_meta": {
+        "execution_time_ms": 6.35,
+        "agents_active": [
+          "forecast",
+          "optimization",
+          "supplier",
+          "anomaly",
+          "decision"
+        ]
+      }
+    }
+  }
+]

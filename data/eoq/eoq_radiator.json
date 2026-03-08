@@ -1,0 +1,12 @@
+{
+  "product": "Radiator",
+  "annual_demand_est": 355.91,
+  "unit_price": 8000,
+  "ordering_cost": 2000,
+  "holding_cost": 1440.0,
+  "EOQ": 31.44,
+  "lead_time_days": 10,
+  "safety_stock": 3.77,
+  "reorder_point": 13.53,
+  "service_level": "95%"
+}

@@ -1,0 +1,17 @@
+{
+  "ForecastAgent": {
+    "enabled": true
+  },
+  "OptimizationAgent": {
+    "enabled": true
+  },
+  "SupplierRiskAgent": {
+    "enabled": true
+  },
+  "AnomalyDetectionAgent": {
+    "enabled": true
+  },
+  "DecisionAgent": {
+    "enabled": true
+  }
+}

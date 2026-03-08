@@ -1,0 +1,1 @@
+In data/agent, data/lstm, data/eoq, only engine-oil is there and only that we are working with. C but do not make the project too heavy or too complex. It has to be practical and i should be able to debug stuff if and when necessary( just a remainder)

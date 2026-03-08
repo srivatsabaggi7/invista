@@ -1,0 +1,27 @@
+{
+  "product": "Radiator",
+  "agent_outputs": {
+    "ForecastAgent": {
+      "uncertainty": 5.12
+    },
+    "EOQAgent": {
+      "EOQ": 31.44,
+      "ROP": 13.53,
+      "SafetyStock": 3.77
+    },
+    "SupplierAgent": {
+      "lead_time_range": "7-13 days",
+      "risk": "Moderate"
+    },
+    "AnomalyAgent": {
+      "anomaly_detected": true
+    },
+    "OptimizationAgent": {
+      "strategy": "avoid_shortage"
+    },
+    "DecisionAgent": {
+      "decision": "ORDER NOW",
+      "reason": "inventory below adjusted ROP"
+    }
+  }
+}

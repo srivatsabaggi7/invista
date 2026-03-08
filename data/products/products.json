@@ -1,0 +1,5 @@
+[
+  { "sku": "engine-oil", "name": "Engine Oil", "category": "Lubricants", "unit_price": 3500 },
+  { "sku": "brake-pads", "name": "Brake Pads", "category": "Braking", "unit_price": 2600 },
+  { "sku": "radiator", "name": "Radiator", "category": "Cooling", "unit_price": 5999 }
+]

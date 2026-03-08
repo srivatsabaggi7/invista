@@ -1,0 +1,2104 @@
+date,product,quantity
+2016-01-31,Brake Pads,76
+2016-02-01,Brake Pads,54
+2016-02-02,Brake Pads,61
+2016-02-03,Brake Pads,63
+2016-02-04,Brake Pads,70
+2016-02-05,Brake Pads,85
+2016-02-06,Brake Pads,84
+2016-02-07,Brake Pads,87
+2016-02-08,Brake Pads,58
+2016-02-09,Brake Pads,58
+2016-02-10,Brake Pads,56
+2016-02-11,Brake Pads,85
+2016-02-12,Brake Pads,81
+2016-02-13,Brake Pads,75
+2016-02-14,Brake Pads,90
+2016-02-15,Brake Pads,59
+2016-02-16,Brake Pads,64
+2016-02-17,Brake Pads,60
+2016-02-18,Brake Pads,64
+2016-02-19,Brake Pads,78
+2016-02-20,Brake Pads,88
+2016-02-21,Brake Pads,84
+2016-02-22,Brake Pads,58
+2016-02-23,Brake Pads,74
+2016-02-24,Brake Pads,78
+2016-02-25,Brake Pads,79
+2016-02-26,Brake Pads,72
+2016-02-27,Brake Pads,81
+2016-02-28,Brake Pads,74
+2016-02-29,Brake Pads,42
+2016-03-01,Brake Pads,90
+2016-03-02,Brake Pads,82
+2016-03-03,Brake Pads,75
+2016-03-04,Brake Pads,80
+2016-03-05,Brake Pads,97
+2016-03-06,Brake Pads,86
+2016-03-07,Brake Pads,49
+2016-03-08,Brake Pads,69
+2016-03-09,Brake Pads,81
+2016-03-10,Brake Pads,71
+2016-03-11,Brake Pads,100
+2016-03-12,Brake Pads,93
+2016-03-13,Brake Pads,102
+2016-03-14,Brake Pads,62
+2016-03-15,Brake Pads,91
+2016-03-16,Brake Pads,85
+2016-03-17,Brake Pads,88
+2016-03-18,Brake Pads,73
+2016-03-19,Brake Pads,96
+2016-03-20,Brake Pads,103
+2016-03-21,Brake Pads,87
+2016-03-22,Brake Pads,87
+2016-03-23,Brake Pads,53
+2016-03-24,Brake Pads,77
+2016-03-25,Brake Pads,84
+2016-03-26,Brake Pads,93
+2016-03-27,Brake Pads,90
+2016-03-28,Brake Pads,66
+2016-03-29,Brake Pads,92
+2016-03-30,Brake Pads,87
+2016-03-31,Brake Pads,80
+2016-04-01,Brake Pads,113
+2016-04-02,Brake Pads,101
+2016-04-03,Brake Pads,123
+2016-04-04,Brake Pads,70
+2016-04-05,Brake Pads,106
+2016-04-06,Brake Pads,77
+2016-04-07,Brake Pads,100
+2016-04-08,Brake Pads,104
+2016-04-09,Brake Pads,104
+2016-04-10,Brake Pads,109
+2016-04-11,Brake Pads,80
+2016-04-12,Brake Pads,79
+2016-04-13,Brake Pads,94
+2016-04-14,Brake Pads,76
+2016-04-15,Brake Pads,98
+2016-04-16,Brake Pads,103
+2016-04-17,Brake Pads,99
+2016-04-18,Brake Pads,97
+2016-04-19,Brake Pads,92
+2016-04-20,Brake Pads,104
+2016-04-21,Brake Pads,115
+2016-04-22,Brake Pads,100
+2016-04-23,Brake Pads,103
+2016-04-24,Brake Pads,108
+2016-04-25,Brake Pads,64
+2016-04-26,Brake Pads,80
+2016-04-27,Brake Pads,84
+2016-04-28,Brake Pads,115
+2016-04-29,Brake Pads,117
+2016-04-30,Brake Pads,115
+2016-05-01,Brake Pads,126
+2016-05-02,Brake Pads,79
+2016-05-03,Brake Pads,109
+2016-05-04,Brake Pads,98
+2016-05-05,Brake Pads,111
+2016-05-06,Brake Pads,117
+2016-05-07,Brake Pads,138
+2016-05-08,Brake Pads,109
+2016-05-09,Brake Pads,77
+2016-05-10,Brake Pads,96
+2016-05-11,Brake Pads,102
+2016-05-12,Brake Pads,91
+2016-05-13,Brake Pads,95
+2016-05-14,Brake Pads,130
+2016-05-15,Brake Pads,113
+2016-05-16,Brake Pads,77
+2016-05-17,Brake Pads,109
+2016-05-18,Brake Pads,92
+2016-05-19,Brake Pads,94
+2016-05-20,Brake Pads,102
+2016-05-21,Brake Pads,124
+2016-05-22,Brake Pads,135
+2016-05-23,Brake Pads,81
+2016-05-24,Brake Pads,95
+2016-05-25,Brake Pads,87
+2016-05-26,Brake Pads,93
+2016-05-27,Brake Pads,108
+2016-05-28,Brake Pads,131
+2016-05-29,Brake Pads,115
+2016-05-30,Brake Pads,79
+2016-05-31,Brake Pads,84
+2016-06-01,Brake Pads,103
+2016-06-02,Brake Pads,101
+2016-06-03,Brake Pads,123
+2016-06-04,Brake Pads,126
+2016-06-05,Brake Pads,131
+2016-06-06,Brake Pads,82
+2016-06-07,Brake Pads,119
+2016-06-08,Brake Pads,102
+2016-06-09,Brake Pads,109
+2016-06-10,Brake Pads,130
+2016-06-11,Brake Pads,134
+2016-06-12,Brake Pads,131
+2016-06-13,Brake Pads,101
+2016-06-14,Brake Pads,110
+2016-06-15,Brake Pads,97
+2016-06-16,Brake Pads,118
+2016-06-17,Brake Pads,109
+2016-06-18,Brake Pads,113
+2016-06-19,Brake Pads,127
+2016-06-20,Brake Pads,76
+2016-06-21,Brake Pads,107
+2016-06-22,Brake Pads,112
+2016-06-23,Brake Pads,93
+2016-06-24,Brake Pads,90
+2016-06-25,Brake Pads,124
+2016-06-26,Brake Pads,122
+2016-06-27,Brake Pads,90
+2016-06-28,Brake Pads,94
+2016-06-29,Brake Pads,84
+2016-06-30,Brake Pads,113
+2016-07-01,Brake Pads,124
+2016-07-02,Brake Pads,130
+2016-07-03,Brake Pads,141
+2016-07-04,Brake Pads,96
+2016-07-05,Brake Pads,106
+2016-07-06,Brake Pads,94
+2016-07-07,Brake Pads,146
+2016-07-08,Brake Pads,106
+2016-07-09,Brake Pads,120
+2016-07-10,Brake Pads,140
+2016-07-11,Brake Pads,101
+2016-07-12,Brake Pads,92
+2016-07-13,Brake Pads,119
+2016-07-14,Brake Pads,117
+2016-07-15,Brake Pads,139
+2016-07-16,Brake Pads,116
+2016-07-17,Brake Pads,145
+2016-07-18,Brake Pads,98
+2016-07-19,Brake Pads,116
+2016-07-20,Brake Pads,125
+2016-07-21,Brake Pads,118
+2016-07-22,Brake Pads,131
+2016-07-23,Brake Pads,133
+2016-07-24,Brake Pads,136
+2016-07-25,Brake Pads,98
+2016-07-26,Brake Pads,113
+2016-07-27,Brake Pads,96
+2016-07-28,Brake Pads,122
+2016-07-29,Brake Pads,131
+2016-07-30,Brake Pads,132
+2016-07-31,Brake Pads,132
+2016-08-01,Brake Pads,87
+2016-08-02,Brake Pads,95
+2016-08-03,Brake Pads,91
+2016-08-04,Brake Pads,101
+2016-08-05,Brake Pads,97
+2016-08-06,Brake Pads,110
+2016-08-07,Brake Pads,127
+2016-08-08,Brake Pads,88
+2016-08-09,Brake Pads,86
+2016-08-10,Brake Pads,87
+2016-08-11,Brake Pads,86
+2016-08-12,Brake Pads,104
+2016-08-13,Brake Pads,124
+2016-08-14,Brake Pads,111
+2016-08-15,Brake Pads,76
+2016-08-16,Brake Pads,109
+2016-08-17,Brake Pads,107
+2016-08-18,Brake Pads,98
+2016-08-19,Brake Pads,121
+2016-08-20,Brake Pads,127
+2016-08-21,Brake Pads,123
+2016-08-22,Brake Pads,73
+2016-08-23,Brake Pads,89
+2016-08-24,Brake Pads,96
+2016-08-25,Brake Pads,94
+2016-08-26,Brake Pads,111
+2016-08-27,Brake Pads,120
+2016-08-28,Brake Pads,109
+2016-08-29,Brake Pads,80
+2016-08-30,Brake Pads,86
+2016-08-31,Brake Pads,94
+2016-09-01,Brake Pads,108
+2016-09-02,Brake Pads,95
+2016-09-03,Brake Pads,103
+2016-09-04,Brake Pads,105
+2016-09-05,Brake Pads,86
+2016-09-06,Brake Pads,77
+2016-09-07,Brake Pads,99
+2016-09-08,Brake Pads,95
+2016-09-09,Brake Pads,113
+2016-09-10,Brake Pads,113
+2016-09-11,Brake Pads,110
+2016-09-12,Brake Pads,67
+2016-09-13,Brake Pads,83
+2016-09-14,Brake Pads,97
+2016-09-15,Brake Pads,106
+2016-09-16,Brake Pads,107
+2016-09-17,Brake Pads,92
+2016-09-18,Brake Pads,101
+2016-09-19,Brake Pads,68
+2016-09-20,Brake Pads,68
+2016-09-21,Brake Pads,91
+2016-09-22,Brake Pads,90
+2016-09-23,Brake Pads,107
+2016-09-24,Brake Pads,110
+2016-09-25,Brake Pads,115
+2016-09-26,Brake Pads,64
+2016-09-27,Brake Pads,86
+2016-09-28,Brake Pads,100
+2016-09-29,Brake Pads,96
+2016-09-30,Brake Pads,101
+2016-10-01,Brake Pads,77
+2016-10-02,Brake Pads,113
+2016-10-03,Brake Pads,82
+2016-10-04,Brake Pads,82
+2016-10-05,Brake Pads,70
+2016-10-06,Brake Pads,87
+2016-10-07,Brake Pads,105
+2016-10-08,Brake Pads,111
+2016-10-09,Brake Pads,111
+2016-10-10,Brake Pads,65
+2016-10-11,Brake Pads,74
+2016-10-12,Brake Pads,99
+2016-10-13,Brake Pads,92
+2016-10-14,Brake Pads,88
+2016-10-15,Brake Pads,86
+2016-10-16,Brake Pads,113
+2016-10-17,Brake Pads,59
+2016-10-18,Brake Pads,76
+2016-10-19,Brake Pads,92
+2016-10-20,Brake Pads,100
+2016-10-21,Brake Pads,93
+2016-10-22,Brake Pads,96
+2016-10-23,Brake Pads,123
+2016-10-24,Brake Pads,71
+2016-10-25,Brake Pads,92
+2016-10-26,Brake Pads,79
+2016-10-27,Brake Pads,75
+2016-10-28,Brake Pads,96
+2016-10-29,Brake Pads,107
+2016-10-30,Brake Pads,100
+2016-10-31,Brake Pads,66
+2016-11-01,Brake Pads,81
+2016-11-02,Brake Pads,88
+2016-11-03,Brake Pads,96
+2016-11-04,Brake Pads,100
+2016-11-05,Brake Pads,97
+2016-11-06,Brake Pads,101
+2016-11-07,Brake Pads,85
+2016-11-08,Brake Pads,98
+2016-11-09,Brake Pads,98
+2016-11-10,Brake Pads,77
+2016-11-11,Brake Pads,94
+2016-11-12,Brake Pads,89
+2016-11-13,Brake Pads,114
+2016-11-14,Brake Pads,87
+2016-11-15,Brake Pads,69
+2016-11-16,Brake Pads,76
+2016-11-17,Brake Pads,106
+2016-11-18,Brake Pads,95
+2016-11-19,Brake Pads,128
+2016-11-20,Brake Pads,112
+2016-11-21,Brake Pads,73
+2016-11-22,Brake Pads,80
+2016-11-23,Brake Pads,87
+2016-11-24,Brake Pads,89
+2016-11-25,Brake Pads,104
+2016-11-26,Brake Pads,107
+2016-11-27,Brake Pads,130
+2016-11-28,Brake Pads,91
+2016-11-29,Brake Pads,96
+2016-11-30,Brake Pads,85
+2016-12-01,Brake Pads,80
+2016-12-02,Brake Pads,75
+2016-12-03,Brake Pads,67
+2016-12-04,Brake Pads,78
+2016-12-05,Brake Pads,67
+2016-12-06,Brake Pads,72
+2016-12-07,Brake Pads,60
+2016-12-08,Brake Pads,61
+2016-12-09,Brake Pads,82
+2016-12-10,Brake Pads,78
+2016-12-11,Brake Pads,86
+2016-12-12,Brake Pads,50
+2016-12-13,Brake Pads,58
+2016-12-14,Brake Pads,64
+2016-12-15,Brake Pads,65
+2016-12-16,Brake Pads,73
+2016-12-17,Brake Pads,62
+2016-12-18,Brake Pads,84
+2016-12-19,Brake Pads,59
+2016-12-20,Brake Pads,62
+2016-12-21,Brake Pads,60
+2016-12-22,Brake Pads,73
+2016-12-23,Brake Pads,71
+2016-12-24,Brake Pads,78
+2016-12-25,Brake Pads,84
+2016-12-26,Brake Pads,61
+2016-12-27,Brake Pads,69
+2016-12-28,Brake Pads,60
+2016-12-29,Brake Pads,77
+2016-12-30,Brake Pads,76
+2016-12-31,Brake Pads,78
+2017-01-01,Brake Pads,76
+2017-01-02,Brake Pads,45
+2017-01-03,Brake Pads,56
+2017-01-04,Brake Pads,74
+2017-01-05,Brake Pads,57
+2017-01-06,Brake Pads,61
+2017-01-07,Brake Pads,73
+2017-01-08,Brake Pads,78
+2017-01-09,Brake Pads,48
+2017-01-10,Brake Pads,61
+2017-01-11,Brake Pads,69
+2017-01-12,Brake Pads,53
+2017-01-13,Brake Pads,56
+2017-01-14,Brake Pads,61
+2017-01-15,Brake Pads,76
+2017-01-16,Brake Pads,55
+2017-01-17,Brake Pads,55
+2017-01-18,Brake Pads,57
+2017-01-19,Brake Pads,57
+2017-01-20,Brake Pads,63
+2017-01-21,Brake Pads,69
+2017-01-22,Brake Pads,68
+2017-01-23,Brake Pads,41
+2017-01-24,Brake Pads,65
+2017-01-25,Brake Pads,55
+2017-01-26,Brake Pads,68
+2017-01-27,Brake Pads,69
+2017-01-28,Brake Pads,75
+2017-01-29,Brake Pads,72
+2017-01-30,Brake Pads,61
+2017-01-31,Brake Pads,50
+2017-02-01,Brake Pads,69
+2017-02-02,Brake Pads,63
+2017-02-03,Brake Pads,95
+2017-02-04,Brake Pads,85
+2017-02-05,Brake Pads,74
+2017-02-06,Brake Pads,60
+2017-02-07,Brake Pads,55
+2017-02-08,Brake Pads,48
+2017-02-09,Brake Pads,62
+2017-02-10,Brake Pads,78
+2017-02-11,Brake Pads,89
+2017-02-12,Brake Pads,90
+2017-02-13,Brake Pads,53
+2017-02-14,Brake Pads,64
+2017-02-15,Brake Pads,83
+2017-02-16,Brake Pads,92
+2017-02-17,Brake Pads,92
+2017-02-18,Brake Pads,86
+2017-02-19,Brake Pads,103
+2017-02-20,Brake Pads,52
+2017-02-21,Brake Pads,44
+2017-02-22,Brake Pads,71
+2017-02-23,Brake Pads,66
+2017-02-24,Brake Pads,83
+2017-02-25,Brake Pads,72
+2017-02-26,Brake Pads,86
+2017-02-27,Brake Pads,57
+2017-02-28,Brake Pads,65
+2017-03-01,Brake Pads,87
+2017-03-02,Brake Pads,95
+2017-03-03,Brake Pads,90
+2017-03-04,Brake Pads,92
+2017-03-05,Brake Pads,126
+2017-03-06,Brake Pads,74
+2017-03-07,Brake Pads,84
+2017-03-08,Brake Pads,72
+2017-03-09,Brake Pads,85
+2017-03-10,Brake Pads,86
+2017-03-11,Brake Pads,83
+2017-03-12,Brake Pads,103
+2017-03-13,Brake Pads,58
+2017-03-14,Brake Pads,84
+2017-03-15,Brake Pads,82
+2017-03-16,Brake Pads,77
+2017-03-17,Brake Pads,68
+2017-03-18,Brake Pads,89
+2017-03-19,Brake Pads,121
+2017-03-20,Brake Pads,67
+2017-03-21,Brake Pads,74
+2017-03-22,Brake Pads,79
+2017-03-23,Brake Pads,88
+2017-03-24,Brake Pads,92
+2017-03-25,Brake Pads,96
+2017-03-26,Brake Pads,80
+2017-03-27,Brake Pads,71
+2017-03-28,Brake Pads,81
+2017-03-29,Brake Pads,84
+2017-03-30,Brake Pads,90
+2017-03-31,Brake Pads,95
+2017-04-01,Brake Pads,123
+2017-04-02,Brake Pads,125
+2017-04-03,Brake Pads,81
+2017-04-04,Brake Pads,110
+2017-04-05,Brake Pads,92
+2017-04-06,Brake Pads,115
+2017-04-07,Brake Pads,112
+2017-04-08,Brake Pads,127
+2017-04-09,Brake Pads,112
+2017-04-10,Brake Pads,88
+2017-04-11,Brake Pads,102
+2017-04-12,Brake Pads,97
+2017-04-13,Brake Pads,108
+2017-04-14,Brake Pads,112
+2017-04-15,Brake Pads,112
+2017-04-16,Brake Pads,98
+2017-04-17,Brake Pads,84
+2017-04-18,Brake Pads,84
+2017-04-19,Brake Pads,84
+2017-04-20,Brake Pads,97
+2017-04-21,Brake Pads,115
+2017-04-22,Brake Pads,103
+2017-04-23,Brake Pads,136
+2017-04-24,Brake Pads,84
+2017-04-25,Brake Pads,88
+2017-04-26,Brake Pads,96
+2017-04-27,Brake Pads,91
+2017-04-28,Brake Pads,111
+2017-04-29,Brake Pads,119
+2017-04-30,Brake Pads,120
+2017-05-01,Brake Pads,85
+2017-05-02,Brake Pads,107
+2017-05-03,Brake Pads,103
+2017-05-04,Brake Pads,83
+2017-05-05,Brake Pads,120
+2017-05-06,Brake Pads,115
+2017-05-07,Brake Pads,118
+2017-05-08,Brake Pads,81
+2017-05-09,Brake Pads,90
+2017-05-10,Brake Pads,113
+2017-05-11,Brake Pads,124
+2017-05-12,Brake Pads,129
+2017-05-13,Brake Pads,110
+2017-05-14,Brake Pads,138
+2017-05-15,Brake Pads,97
+2017-05-16,Brake Pads,94
+2017-05-17,Brake Pads,113
+2017-05-18,Brake Pads,92
+2017-05-19,Brake Pads,114
+2017-05-20,Brake Pads,143
+2017-05-21,Brake Pads,127
+2017-05-22,Brake Pads,84
+2017-05-23,Brake Pads,105
+2017-05-24,Brake Pads,96
+2017-05-25,Brake Pads,98
+2017-05-26,Brake Pads,126
+2017-05-27,Brake Pads,122
+2017-05-28,Brake Pads,118
+2017-05-29,Brake Pads,102
+2017-05-30,Brake Pads,109
+2017-05-31,Brake Pads,98
+2017-06-01,Brake Pads,111
+2017-06-02,Brake Pads,114
+2017-06-03,Brake Pads,146
+2017-06-04,Brake Pads,123
+2017-06-05,Brake Pads,87
+2017-06-06,Brake Pads,114
+2017-06-07,Brake Pads,105
+2017-06-08,Brake Pads,105
+2017-06-09,Brake Pads,123
+2017-06-10,Brake Pads,126
+2017-06-11,Brake Pads,155
+2017-06-12,Brake Pads,91
+2017-06-13,Brake Pads,95
+2017-06-14,Brake Pads,114
+2017-06-15,Brake Pads,119
+2017-06-16,Brake Pads,118
+2017-06-17,Brake Pads,128
+2017-06-18,Brake Pads,151
+2017-06-19,Brake Pads,84
+2017-06-20,Brake Pads,127
+2017-06-21,Brake Pads,111
+2017-06-22,Brake Pads,112
+2017-06-23,Brake Pads,117
+2017-06-24,Brake Pads,118
+2017-06-25,Brake Pads,144
+2017-06-26,Brake Pads,100
+2017-06-27,Brake Pads,92
+2017-06-28,Brake Pads,100
+2017-06-29,Brake Pads,107
+2017-06-30,Brake Pads,122
+2017-07-01,Brake Pads,151
+2017-07-02,Brake Pads,148
+2017-07-03,Brake Pads,107
+2017-07-04,Brake Pads,114
+2017-07-05,Brake Pads,115
+2017-07-06,Brake Pads,122
+2017-07-07,Brake Pads,105
+2017-07-08,Brake Pads,148
+2017-07-09,Brake Pads,130
+2017-07-10,Brake Pads,100
+2017-07-11,Brake Pads,95
+2017-07-12,Brake Pads,104
+2017-07-13,Brake Pads,123
+2017-07-14,Brake Pads,122
+2017-07-15,Brake Pads,99
+2017-07-16,Brake Pads,138
+2017-07-17,Brake Pads,95
+2017-07-18,Brake Pads,116
+2017-07-19,Brake Pads,114
+2017-07-20,Brake Pads,121
+2017-07-21,Brake Pads,129
+2017-07-22,Brake Pads,123
+2017-07-23,Brake Pads,156
+2017-07-24,Brake Pads,91
+2017-07-25,Brake Pads,118
+2017-07-26,Brake Pads,124
+2017-07-27,Brake Pads,117
+2017-07-28,Brake Pads,131
+2017-07-29,Brake Pads,117
+2017-07-30,Brake Pads,142
+2017-07-31,Brake Pads,88
+2017-08-01,Brake Pads,108
+2017-08-02,Brake Pads,87
+2017-08-03,Brake Pads,99
+2017-08-04,Brake Pads,93
+2017-08-05,Brake Pads,126
+2017-08-06,Brake Pads,156
+2017-08-07,Brake Pads,83
+2017-08-08,Brake Pads,96
+2017-08-09,Brake Pads,100
+2017-08-10,Brake Pads,112
+2017-08-11,Brake Pads,119
+2017-08-12,Brake Pads,125
+2017-08-13,Brake Pads,135
+2017-08-14,Brake Pads,98
+2017-08-15,Brake Pads,96
+2017-08-16,Brake Pads,97
+2017-08-17,Brake Pads,96
+2017-08-18,Brake Pads,94
+2017-08-19,Brake Pads,109
+2017-08-20,Brake Pads,121
+2017-08-21,Brake Pads,78
+2017-08-22,Brake Pads,93
+2017-08-23,Brake Pads,109
+2017-08-24,Brake Pads,110
+2017-08-25,Brake Pads,138
+2017-08-26,Brake Pads,136
+2017-08-27,Brake Pads,130
+2017-08-28,Brake Pads,68
+2017-08-29,Brake Pads,91
+2017-08-30,Brake Pads,115
+2017-08-31,Brake Pads,89
+2017-09-01,Brake Pads,96
+2017-09-02,Brake Pads,104
+2017-09-03,Brake Pads,130
+2017-09-04,Brake Pads,72
+2017-09-05,Brake Pads,99
+2017-09-06,Brake Pads,108
+2017-09-07,Brake Pads,108
+2017-09-08,Brake Pads,103
+2017-09-09,Brake Pads,106
+2017-09-10,Brake Pads,105
+2017-09-11,Brake Pads,70
+2017-09-12,Brake Pads,123
+2017-09-13,Brake Pads,108
+2017-09-14,Brake Pads,103
+2017-09-15,Brake Pads,102
+2017-09-16,Brake Pads,120
+2017-09-17,Brake Pads,120
+2017-09-18,Brake Pads,94
+2017-09-19,Brake Pads,78
+2017-09-20,Brake Pads,116
+2017-09-21,Brake Pads,97
+2017-09-22,Brake Pads,99
+2017-09-23,Brake Pads,121
+2017-09-24,Brake Pads,135
+2017-09-25,Brake Pads,78
+2017-09-26,Brake Pads,97
+2017-09-27,Brake Pads,111
+2017-09-28,Brake Pads,105
+2017-09-29,Brake Pads,96
+2017-09-30,Brake Pads,115
+2017-10-01,Brake Pads,120
+2017-10-02,Brake Pads,71
+2017-10-03,Brake Pads,92
+2017-10-04,Brake Pads,86
+2017-10-05,Brake Pads,98
+2017-10-06,Brake Pads,93
+2017-10-07,Brake Pads,106
+2017-10-08,Brake Pads,112
+2017-10-09,Brake Pads,75
+2017-10-10,Brake Pads,87
+2017-10-11,Brake Pads,94
+2017-10-12,Brake Pads,105
+2017-10-13,Brake Pads,108
+2017-10-14,Brake Pads,109
+2017-10-15,Brake Pads,117
+2017-10-16,Brake Pads,88
+2017-10-17,Brake Pads,82
+2017-10-18,Brake Pads,83
+2017-10-19,Brake Pads,89
+2017-10-20,Brake Pads,89
+2017-10-21,Brake Pads,105
+2017-10-22,Brake Pads,110
+2017-10-23,Brake Pads,69
+2017-10-24,Brake Pads,97
+2017-10-25,Brake Pads,97
+2017-10-26,Brake Pads,93
+2017-10-27,Brake Pads,102
+2017-10-28,Brake Pads,121
+2017-10-29,Brake Pads,109
+2017-10-30,Brake Pads,70
+2017-10-31,Brake Pads,59
+2017-11-01,Brake Pads,82
+2017-11-02,Brake Pads,97
+2017-11-03,Brake Pads,102
+2017-11-04,Brake Pads,127
+2017-11-05,Brake Pads,125
+2017-11-06,Brake Pads,83
+2017-11-07,Brake Pads,89
+2017-11-08,Brake Pads,81
+2017-11-09,Brake Pads,95
+2017-11-10,Brake Pads,102
+2017-11-11,Brake Pads,124
+2017-11-12,Brake Pads,123
+2017-11-13,Brake Pads,76
+2017-11-14,Brake Pads,102
+2017-11-15,Brake Pads,112
+2017-11-16,Brake Pads,116
+2017-11-17,Brake Pads,107
+2017-11-18,Brake Pads,108
+2017-11-19,Brake Pads,117
+2017-11-20,Brake Pads,81
+2017-11-21,Brake Pads,119
+2017-11-22,Brake Pads,98
+2017-11-23,Brake Pads,100
+2017-11-24,Brake Pads,112
+2017-11-25,Brake Pads,108
+2017-11-26,Brake Pads,116
+2017-11-27,Brake Pads,83
+2017-11-28,Brake Pads,95
+2017-11-29,Brake Pads,99
+2017-11-30,Brake Pads,98
+2017-12-01,Brake Pads,79
+2017-12-02,Brake Pads,63
+2017-12-03,Brake Pads,77
+2017-12-04,Brake Pads,64
+2017-12-05,Brake Pads,67
+2017-12-06,Brake Pads,76
+2017-12-07,Brake Pads,61
+2017-12-08,Brake Pads,82
+2017-12-09,Brake Pads,88
+2017-12-10,Brake Pads,94
+2017-12-11,Brake Pads,64
+2017-12-12,Brake Pads,83
+2017-12-13,Brake Pads,80
+2017-12-14,Brake Pads,83
+2017-12-15,Brake Pads,72
+2017-12-16,Brake Pads,90
+2017-12-17,Brake Pads,82
+2017-12-18,Brake Pads,47
+2017-12-19,Brake Pads,69
+2017-12-20,Brake Pads,72
+2017-12-21,Brake Pads,84
+2017-12-22,Brake Pads,76
+2017-12-23,Brake Pads,84
+2017-12-24,Brake Pads,77
+2017-12-25,Brake Pads,51
+2017-12-26,Brake Pads,60
+2017-12-27,Brake Pads,59
+2017-12-28,Brake Pads,62
+2017-12-29,Brake Pads,74
+2017-12-30,Brake Pads,74
+2017-12-31,Brake Pads,77
+2016-01-31,Engine Oil,93
+2016-02-01,Engine Oil,75
+2016-02-02,Engine Oil,88
+2016-02-03,Engine Oil,78
+2016-02-04,Engine Oil,75
+2016-02-05,Engine Oil,86
+2016-02-06,Engine Oil,85
+2016-02-07,Engine Oil,111
+2016-02-08,Engine Oil,68
+2016-02-09,Engine Oil,91
+2016-02-10,Engine Oil,98
+2016-02-11,Engine Oil,83
+2016-02-12,Engine Oil,74
+2016-02-13,Engine Oil,89
+2016-02-14,Engine Oil,117
+2016-02-15,Engine Oil,62
+2016-02-16,Engine Oil,92
+2016-02-17,Engine Oil,97
+2016-02-18,Engine Oil,89
+2016-02-19,Engine Oil,102
+2016-02-20,Engine Oil,94
+2016-02-21,Engine Oil,107
+2016-02-22,Engine Oil,81
+2016-02-23,Engine Oil,71
+2016-02-24,Engine Oil,89
+2016-02-25,Engine Oil,111
+2016-02-26,Engine Oil,110
+2016-02-27,Engine Oil,117
+2016-02-28,Engine Oil,115
+2016-02-29,Engine Oil,88
+2016-03-01,Engine Oil,110
+2016-03-02,Engine Oil,73
+2016-03-03,Engine Oil,99
+2016-03-04,Engine Oil,117
+2016-03-05,Engine Oil,112
+2016-03-06,Engine Oil,129
+2016-03-07,Engine Oil,98
+2016-03-08,Engine Oil,99
+2016-03-09,Engine Oil,113
+2016-03-10,Engine Oil,98
+2016-03-11,Engine Oil,120
+2016-03-12,Engine Oil,98
+2016-03-13,Engine Oil,138
+2016-03-14,Engine Oil,88
+2016-03-15,Engine Oil,102
+2016-03-16,Engine Oil,93
+2016-03-17,Engine Oil,130
+2016-03-18,Engine Oil,139
+2016-03-19,Engine Oil,125
+2016-03-20,Engine Oil,140
+2016-03-21,Engine Oil,104
+2016-03-22,Engine Oil,116
+2016-03-23,Engine Oil,109
+2016-03-24,Engine Oil,103
+2016-03-25,Engine Oil,132
+2016-03-26,Engine Oil,128
+2016-03-27,Engine Oil,133
+2016-03-28,Engine Oil,109
+2016-03-29,Engine Oil,106
+2016-03-30,Engine Oil,112
+2016-03-31,Engine Oil,116
+2016-04-01,Engine Oil,144
+2016-04-02,Engine Oil,126
+2016-04-03,Engine Oil,144
+2016-04-04,Engine Oil,102
+2016-04-05,Engine Oil,110
+2016-04-06,Engine Oil,109
+2016-04-07,Engine Oil,130
+2016-04-08,Engine Oil,143
+2016-04-09,Engine Oil,157
+2016-04-10,Engine Oil,153
+2016-04-11,Engine Oil,105
+2016-04-12,Engine Oil,117
+2016-04-13,Engine Oil,136
+2016-04-14,Engine Oil,127
+2016-04-15,Engine Oil,138
+2016-04-16,Engine Oil,143
+2016-04-17,Engine Oil,157
+2016-04-18,Engine Oil,91
+2016-04-19,Engine Oil,117
+2016-04-20,Engine Oil,98
+2016-04-21,Engine Oil,127
+2016-04-22,Engine Oil,115
+2016-04-23,Engine Oil,125
+2016-04-24,Engine Oil,160
+2016-04-25,Engine Oil,104
+2016-04-26,Engine Oil,129
+2016-04-27,Engine Oil,101
+2016-04-28,Engine Oil,129
+2016-04-29,Engine Oil,123
+2016-04-30,Engine Oil,143
+2016-05-01,Engine Oil,150
+2016-05-02,Engine Oil,110
+2016-05-03,Engine Oil,121
+2016-05-04,Engine Oil,128
+2016-05-05,Engine Oil,123
+2016-05-06,Engine Oil,166
+2016-05-07,Engine Oil,167
+2016-05-08,Engine Oil,186
+2016-05-09,Engine Oil,115
+2016-05-10,Engine Oil,129
+2016-05-11,Engine Oil,119
+2016-05-12,Engine Oil,133
+2016-05-13,Engine Oil,137
+2016-05-14,Engine Oil,169
+2016-05-15,Engine Oil,155
+2016-05-16,Engine Oil,98
+2016-05-17,Engine Oil,123
+2016-05-18,Engine Oil,151
+2016-05-19,Engine Oil,133
+2016-05-20,Engine Oil,154
+2016-05-21,Engine Oil,157
+2016-05-22,Engine Oil,149
+2016-05-23,Engine Oil,103
+2016-05-24,Engine Oil,132
+2016-05-25,Engine Oil,103
+2016-05-26,Engine Oil,152
+2016-05-27,Engine Oil,150
+2016-05-28,Engine Oil,169
+2016-05-29,Engine Oil,166
+2016-05-30,Engine Oil,116
+2016-05-31,Engine Oil,124
+2016-06-01,Engine Oil,138
+2016-06-02,Engine Oil,130
+2016-06-03,Engine Oil,153
+2016-06-04,Engine Oil,181
+2016-06-05,Engine Oil,187
+2016-06-06,Engine Oil,117
+2016-06-07,Engine Oil,128
+2016-06-08,Engine Oil,133
+2016-06-09,Engine Oil,140
+2016-06-10,Engine Oil,171
+2016-06-11,Engine Oil,166
+2016-06-12,Engine Oil,157
+2016-06-13,Engine Oil,107
+2016-06-14,Engine Oil,143
+2016-06-15,Engine Oil,129
+2016-06-16,Engine Oil,145
+2016-06-17,Engine Oil,148
+2016-06-18,Engine Oil,140
+2016-06-19,Engine Oil,192
+2016-06-20,Engine Oil,116
+2016-06-21,Engine Oil,139
+2016-06-22,Engine Oil,143
+2016-06-23,Engine Oil,141
+2016-06-24,Engine Oil,165
+2016-06-25,Engine Oil,165
+2016-06-26,Engine Oil,184
+2016-06-27,Engine Oil,128
+2016-06-28,Engine Oil,116
+2016-06-29,Engine Oil,139
+2016-06-30,Engine Oil,147
+2016-07-01,Engine Oil,181
+2016-07-02,Engine Oil,196
+2016-07-03,Engine Oil,187
+2016-07-04,Engine Oil,114
+2016-07-05,Engine Oil,147
+2016-07-06,Engine Oil,141
+2016-07-07,Engine Oil,163
+2016-07-08,Engine Oil,148
+2016-07-09,Engine Oil,191
+2016-07-10,Engine Oil,187
+2016-07-11,Engine Oil,141
+2016-07-12,Engine Oil,157
+2016-07-13,Engine Oil,125
+2016-07-14,Engine Oil,156
+2016-07-15,Engine Oil,175
+2016-07-16,Engine Oil,186
+2016-07-17,Engine Oil,190
+2016-07-18,Engine Oil,120
+2016-07-19,Engine Oil,154
+2016-07-20,Engine Oil,156
+2016-07-21,Engine Oil,177
+2016-07-22,Engine Oil,165
+2016-07-23,Engine Oil,181
+2016-07-24,Engine Oil,155
+2016-07-25,Engine Oil,125
+2016-07-26,Engine Oil,141
+2016-07-27,Engine Oil,130
+2016-07-28,Engine Oil,138
+2016-07-29,Engine Oil,169
+2016-07-30,Engine Oil,181
+2016-07-31,Engine Oil,167
+2016-08-01,Engine Oil,119
+2016-08-02,Engine Oil,118
+2016-08-03,Engine Oil,139
+2016-08-04,Engine Oil,137
+2016-08-05,Engine Oil,125
+2016-08-06,Engine Oil,166
+2016-08-07,Engine Oil,155
+2016-08-08,Engine Oil,86
+2016-08-09,Engine Oil,117
+2016-08-10,Engine Oil,153
+2016-08-11,Engine Oil,133
+2016-08-12,Engine Oil,152
+2016-08-13,Engine Oil,140
+2016-08-14,Engine Oil,157
+2016-08-15,Engine Oil,113
+2016-08-16,Engine Oil,108
+2016-08-17,Engine Oil,133
+2016-08-18,Engine Oil,138
+2016-08-19,Engine Oil,142
+2016-08-20,Engine Oil,172
+2016-08-21,Engine Oil,152
+2016-08-22,Engine Oil,107
+2016-08-23,Engine Oil,129
+2016-08-24,Engine Oil,131
+2016-08-25,Engine Oil,111
+2016-08-26,Engine Oil,140
+2016-08-27,Engine Oil,155
+2016-08-28,Engine Oil,154
+2016-08-29,Engine Oil,104
+2016-08-30,Engine Oil,114
+2016-08-31,Engine Oil,136
+2016-09-01,Engine Oil,131
+2016-09-02,Engine Oil,124
+2016-09-03,Engine Oil,136
+2016-09-04,Engine Oil,165
+2016-09-05,Engine Oil,102
+2016-09-06,Engine Oil,134
+2016-09-07,Engine Oil,99
+2016-09-08,Engine Oil,120
+2016-09-09,Engine Oil,132
+2016-09-10,Engine Oil,151
+2016-09-11,Engine Oil,152
+2016-09-12,Engine Oil,100
+2016-09-13,Engine Oil,118
+2016-09-14,Engine Oil,116
+2016-09-15,Engine Oil,120
+2016-09-16,Engine Oil,144
+2016-09-17,Engine Oil,153
+2016-09-18,Engine Oil,155
+2016-09-19,Engine Oil,94
+2016-09-20,Engine Oil,95
+2016-09-21,Engine Oil,104
+2016-09-22,Engine Oil,136
+2016-09-23,Engine Oil,167
+2016-09-24,Engine Oil,164
+2016-09-25,Engine Oil,133
+2016-09-26,Engine Oil,102
+2016-09-27,Engine Oil,131
+2016-09-28,Engine Oil,130
+2016-09-29,Engine Oil,114
+2016-09-30,Engine Oil,141
+2016-10-01,Engine Oil,132
+2016-10-02,Engine Oil,123
+2016-10-03,Engine Oil,100
+2016-10-04,Engine Oil,99
+2016-10-05,Engine Oil,109
+2016-10-06,Engine Oil,114
+2016-10-07,Engine Oil,118
+2016-10-08,Engine Oil,126
+2016-10-09,Engine Oil,141
+2016-10-10,Engine Oil,108
+2016-10-11,Engine Oil,128
+2016-10-12,Engine Oil,100
+2016-10-13,Engine Oil,99
+2016-10-14,Engine Oil,135
+2016-10-15,Engine Oil,140
+2016-10-16,Engine Oil,141
+2016-10-17,Engine Oil,98
+2016-10-18,Engine Oil,105
+2016-10-19,Engine Oil,105
+2016-10-20,Engine Oil,106
+2016-10-21,Engine Oil,141
+2016-10-22,Engine Oil,128
+2016-10-23,Engine Oil,145
+2016-10-24,Engine Oil,94
+2016-10-25,Engine Oil,119
+2016-10-26,Engine Oil,108
+2016-10-27,Engine Oil,125
+2016-10-28,Engine Oil,109
+2016-10-29,Engine Oil,132
+2016-10-30,Engine Oil,131
+2016-10-31,Engine Oil,92
+2016-11-01,Engine Oil,105
+2016-11-02,Engine Oil,120
+2016-11-03,Engine Oil,128
+2016-11-04,Engine Oil,142
+2016-11-05,Engine Oil,143
+2016-11-06,Engine Oil,159
+2016-11-07,Engine Oil,89
+2016-11-08,Engine Oil,105
+2016-11-09,Engine Oil,129
+2016-11-10,Engine Oil,98
+2016-11-11,Engine Oil,157
+2016-11-12,Engine Oil,120
+2016-11-13,Engine Oil,157
+2016-11-14,Engine Oil,121
+2016-11-15,Engine Oil,119
+2016-11-16,Engine Oil,125
+2016-11-17,Engine Oil,109
+2016-11-18,Engine Oil,140
+2016-11-19,Engine Oil,141
+2016-11-20,Engine Oil,152
+2016-11-21,Engine Oil,103
+2016-11-22,Engine Oil,127
+2016-11-23,Engine Oil,115
+2016-11-24,Engine Oil,139
+2016-11-25,Engine Oil,153
+2016-11-26,Engine Oil,147
+2016-11-27,Engine Oil,144
+2016-11-28,Engine Oil,101
+2016-11-29,Engine Oil,114
+2016-11-30,Engine Oil,116
+2016-12-01,Engine Oil,87
+2016-12-02,Engine Oil,84
+2016-12-03,Engine Oil,112
+2016-12-04,Engine Oil,99
+2016-12-05,Engine Oil,68
+2016-12-06,Engine Oil,91
+2016-12-07,Engine Oil,91
+2016-12-08,Engine Oil,80
+2016-12-09,Engine Oil,97
+2016-12-10,Engine Oil,111
+2016-12-11,Engine Oil,114
+2016-12-12,Engine Oil,73
+2016-12-13,Engine Oil,83
+2016-12-14,Engine Oil,85
+2016-12-15,Engine Oil,101
+2016-12-16,Engine Oil,89
+2016-12-17,Engine Oil,112
+2016-12-18,Engine Oil,97
+2016-12-19,Engine Oil,78
+2016-12-20,Engine Oil,82
+2016-12-21,Engine Oil,63
+2016-12-22,Engine Oil,80
+2016-12-23,Engine Oil,88
+2016-12-24,Engine Oil,84
+2016-12-25,Engine Oil,113
+2016-12-26,Engine Oil,74
+2016-12-27,Engine Oil,76
+2016-12-28,Engine Oil,88
+2016-12-29,Engine Oil,88
+2016-12-30,Engine Oil,88
+2016-12-31,Engine Oil,92
+2017-01-01,Engine Oil,89
+2017-01-02,Engine Oil,61
+2017-01-03,Engine Oil,105
+2017-01-04,Engine Oil,86
+2017-01-05,Engine Oil,96
+2017-01-06,Engine Oil,100
+2017-01-07,Engine Oil,77
+2017-01-08,Engine Oil,117
+2017-01-09,Engine Oil,73
+2017-01-10,Engine Oil,84
+2017-01-11,Engine Oil,69
+2017-01-12,Engine Oil,91
+2017-01-13,Engine Oil,91
+2017-01-14,Engine Oil,99
+2017-01-15,Engine Oil,86
+2017-01-16,Engine Oil,52
+2017-01-17,Engine Oil,74
+2017-01-18,Engine Oil,76
+2017-01-19,Engine Oil,71
+2017-01-20,Engine Oil,93
+2017-01-21,Engine Oil,94
+2017-01-22,Engine Oil,86
+2017-01-23,Engine Oil,62
+2017-01-24,Engine Oil,83
+2017-01-25,Engine Oil,76
+2017-01-26,Engine Oil,102
+2017-01-27,Engine Oil,85
+2017-01-28,Engine Oil,82
+2017-01-29,Engine Oil,101
+2017-01-30,Engine Oil,65
+2017-01-31,Engine Oil,70
+2017-02-01,Engine Oil,89
+2017-02-02,Engine Oil,85
+2017-02-03,Engine Oil,116
+2017-02-04,Engine Oil,126
+2017-02-05,Engine Oil,112
+2017-02-06,Engine Oil,82
+2017-02-07,Engine Oil,76
+2017-02-08,Engine Oil,80
+2017-02-09,Engine Oil,92
+2017-02-10,Engine Oil,110
+2017-02-11,Engine Oil,92
+2017-02-12,Engine Oil,104
+2017-02-13,Engine Oil,75
+2017-02-14,Engine Oil,77
+2017-02-15,Engine Oil,71
+2017-02-16,Engine Oil,98
+2017-02-17,Engine Oil,109
+2017-02-18,Engine Oil,93
+2017-02-19,Engine Oil,109
+2017-02-20,Engine Oil,76
+2017-02-21,Engine Oil,94
+2017-02-22,Engine Oil,72
+2017-02-23,Engine Oil,98
+2017-02-24,Engine Oil,91
+2017-02-25,Engine Oil,105
+2017-02-26,Engine Oil,108
+2017-02-27,Engine Oil,78
+2017-02-28,Engine Oil,87
+2017-03-01,Engine Oil,106
+2017-03-02,Engine Oil,138
+2017-03-03,Engine Oil,106
+2017-03-04,Engine Oil,144
+2017-03-05,Engine Oil,152
+2017-03-06,Engine Oil,108
+2017-03-07,Engine Oil,89
+2017-03-08,Engine Oil,114
+2017-03-09,Engine Oil,110
+2017-03-10,Engine Oil,101
+2017-03-11,Engine Oil,131
+2017-03-12,Engine Oil,145
+2017-03-13,Engine Oil,90
+2017-03-14,Engine Oil,110
+2017-03-15,Engine Oil,107
+2017-03-16,Engine Oil,108
+2017-03-17,Engine Oil,136
+2017-03-18,Engine Oil,119
+2017-03-19,Engine Oil,138
+2017-03-20,Engine Oil,93
+2017-03-21,Engine Oil,106
+2017-03-22,Engine Oil,108
+2017-03-23,Engine Oil,91
+2017-03-24,Engine Oil,111
+2017-03-25,Engine Oil,117
+2017-03-26,Engine Oil,132
+2017-03-27,Engine Oil,90
+2017-03-28,Engine Oil,99
+2017-03-29,Engine Oil,98
+2017-03-30,Engine Oil,103
+2017-03-31,Engine Oil,119
+2017-04-01,Engine Oil,151
+2017-04-02,Engine Oil,149
+2017-04-03,Engine Oil,109
+2017-04-04,Engine Oil,123
+2017-04-05,Engine Oil,115
+2017-04-06,Engine Oil,126
+2017-04-07,Engine Oil,152
+2017-04-08,Engine Oil,135
+2017-04-09,Engine Oil,180
+2017-04-10,Engine Oil,114
+2017-04-11,Engine Oil,131
+2017-04-12,Engine Oil,121
+2017-04-13,Engine Oil,133
+2017-04-14,Engine Oil,146
+2017-04-15,Engine Oil,149
+2017-04-16,Engine Oil,172
+2017-04-17,Engine Oil,90
+2017-04-18,Engine Oil,113
+2017-04-19,Engine Oil,112
+2017-04-20,Engine Oil,148
+2017-04-21,Engine Oil,142
+2017-04-22,Engine Oil,144
+2017-04-23,Engine Oil,165
+2017-04-24,Engine Oil,111
+2017-04-25,Engine Oil,123
+2017-04-26,Engine Oil,116
+2017-04-27,Engine Oil,130
+2017-04-28,Engine Oil,133
+2017-04-29,Engine Oil,162
+2017-04-30,Engine Oil,168
+2017-05-01,Engine Oil,124
+2017-05-02,Engine Oil,142
+2017-05-03,Engine Oil,130
+2017-05-04,Engine Oil,126
+2017-05-05,Engine Oil,141
+2017-05-06,Engine Oil,140
+2017-05-07,Engine Oil,183
+2017-05-08,Engine Oil,125
+2017-05-09,Engine Oil,140
+2017-05-10,Engine Oil,133
+2017-05-11,Engine Oil,151
+2017-05-12,Engine Oil,169
+2017-05-13,Engine Oil,167
+2017-05-14,Engine Oil,178
+2017-05-15,Engine Oil,109
+2017-05-16,Engine Oil,160
+2017-05-17,Engine Oil,117
+2017-05-18,Engine Oil,143
+2017-05-19,Engine Oil,158
+2017-05-20,Engine Oil,159
+2017-05-21,Engine Oil,159
+2017-05-22,Engine Oil,115
+2017-05-23,Engine Oil,125
+2017-05-24,Engine Oil,141
+2017-05-25,Engine Oil,132
+2017-05-26,Engine Oil,157
+2017-05-27,Engine Oil,185
+2017-05-28,Engine Oil,168
+2017-05-29,Engine Oil,94
+2017-05-30,Engine Oil,115
+2017-05-31,Engine Oil,117
+2017-06-01,Engine Oil,158
+2017-06-02,Engine Oil,134
+2017-06-03,Engine Oil,183
+2017-06-04,Engine Oil,174
+2017-06-05,Engine Oil,106
+2017-06-06,Engine Oil,150
+2017-06-07,Engine Oil,142
+2017-06-08,Engine Oil,134
+2017-06-09,Engine Oil,165
+2017-06-10,Engine Oil,159
+2017-06-11,Engine Oil,190
+2017-06-12,Engine Oil,127
+2017-06-13,Engine Oil,152
+2017-06-14,Engine Oil,141
+2017-06-15,Engine Oil,160
+2017-06-16,Engine Oil,165
+2017-06-17,Engine Oil,159
+2017-06-18,Engine Oil,175
+2017-06-19,Engine Oil,124
+2017-06-20,Engine Oil,119
+2017-06-21,Engine Oil,137
+2017-06-22,Engine Oil,167
+2017-06-23,Engine Oil,163
+2017-06-24,Engine Oil,164
+2017-06-25,Engine Oil,194
+2017-06-26,Engine Oil,113
+2017-06-27,Engine Oil,139
+2017-06-28,Engine Oil,147
+2017-06-29,Engine Oil,147
+2017-06-30,Engine Oil,141
+2017-07-01,Engine Oil,170
+2017-07-02,Engine Oil,170
+2017-07-03,Engine Oil,141
+2017-07-04,Engine Oil,157
+2017-07-05,Engine Oil,161
+2017-07-06,Engine Oil,152
+2017-07-07,Engine Oil,177
+2017-07-08,Engine Oil,206
+2017-07-09,Engine Oil,203
+2017-07-10,Engine Oil,144
+2017-07-11,Engine Oil,150
+2017-07-12,Engine Oil,143
+2017-07-13,Engine Oil,161
+2017-07-14,Engine Oil,184
+2017-07-15,Engine Oil,182
+2017-07-16,Engine Oil,188
+2017-07-17,Engine Oil,110
+2017-07-18,Engine Oil,146
+2017-07-19,Engine Oil,158
+2017-07-20,Engine Oil,170
+2017-07-21,Engine Oil,171
+2017-07-22,Engine Oil,177
+2017-07-23,Engine Oil,180
+2017-07-24,Engine Oil,127
+2017-07-25,Engine Oil,152
+2017-07-26,Engine Oil,137
+2017-07-27,Engine Oil,147
+2017-07-28,Engine Oil,154
+2017-07-29,Engine Oil,177
+2017-07-30,Engine Oil,180
+2017-07-31,Engine Oil,124
+2017-08-01,Engine Oil,116
+2017-08-02,Engine Oil,143
+2017-08-03,Engine Oil,132
+2017-08-04,Engine Oil,138
+2017-08-05,Engine Oil,161
+2017-08-06,Engine Oil,160
+2017-08-07,Engine Oil,106
+2017-08-08,Engine Oil,140
+2017-08-09,Engine Oil,143
+2017-08-10,Engine Oil,125
+2017-08-11,Engine Oil,157
+2017-08-12,Engine Oil,164
+2017-08-13,Engine Oil,180
+2017-08-14,Engine Oil,123
+2017-08-15,Engine Oil,149
+2017-08-16,Engine Oil,136
+2017-08-17,Engine Oil,150
+2017-08-18,Engine Oil,147
+2017-08-19,Engine Oil,149
+2017-08-20,Engine Oil,177
+2017-08-21,Engine Oil,118
+2017-08-22,Engine Oil,142
+2017-08-23,Engine Oil,146
+2017-08-24,Engine Oil,137
+2017-08-25,Engine Oil,145
+2017-08-26,Engine Oil,167
+2017-08-27,Engine Oil,187
+2017-08-28,Engine Oil,112
+2017-08-29,Engine Oil,107
+2017-08-30,Engine Oil,127
+2017-08-31,Engine Oil,126
+2017-09-01,Engine Oil,132
+2017-09-02,Engine Oil,152
+2017-09-03,Engine Oil,166
+2017-09-04,Engine Oil,84
+2017-09-05,Engine Oil,119
+2017-09-06,Engine Oil,122
+2017-09-07,Engine Oil,160
+2017-09-08,Engine Oil,142
+2017-09-09,Engine Oil,151
+2017-09-10,Engine Oil,169
+2017-09-11,Engine Oil,113
+2017-09-12,Engine Oil,143
+2017-09-13,Engine Oil,154
+2017-09-14,Engine Oil,154
+2017-09-15,Engine Oil,142
+2017-09-16,Engine Oil,169
+2017-09-17,Engine Oil,154
+2017-09-18,Engine Oil,93
+2017-09-19,Engine Oil,124
+2017-09-20,Engine Oil,122
+2017-09-21,Engine Oil,128
+2017-09-22,Engine Oil,141
+2017-09-23,Engine Oil,156
+2017-09-24,Engine Oil,171
+2017-09-25,Engine Oil,115
+2017-09-26,Engine Oil,120
+2017-09-27,Engine Oil,138
+2017-09-28,Engine Oil,131
+2017-09-29,Engine Oil,162
+2017-09-30,Engine Oil,171
+2017-10-01,Engine Oil,152
+2017-10-02,Engine Oil,84
+2017-10-03,Engine Oil,118
+2017-10-04,Engine Oil,129
+2017-10-05,Engine Oil,111
+2017-10-06,Engine Oil,140
+2017-10-07,Engine Oil,119
+2017-10-08,Engine Oil,142
+2017-10-09,Engine Oil,110
+2017-10-10,Engine Oil,103
+2017-10-11,Engine Oil,107
+2017-10-12,Engine Oil,126
+2017-10-13,Engine Oil,144
+2017-10-14,Engine Oil,127
+2017-10-15,Engine Oil,154
+2017-10-16,Engine Oil,107
+2017-10-17,Engine Oil,118
+2017-10-18,Engine Oil,124
+2017-10-19,Engine Oil,139
+2017-10-20,Engine Oil,117
+2017-10-21,Engine Oil,132
+2017-10-22,Engine Oil,168
+2017-10-23,Engine Oil,93
+2017-10-24,Engine Oil,123
+2017-10-25,Engine Oil,104
+2017-10-26,Engine Oil,120
+2017-10-27,Engine Oil,124
+2017-10-28,Engine Oil,139
+2017-10-29,Engine Oil,147
+2017-10-30,Engine Oil,94
+2017-10-31,Engine Oil,119
+2017-11-01,Engine Oil,120
+2017-11-02,Engine Oil,140
+2017-11-03,Engine Oil,149
+2017-11-04,Engine Oil,151
+2017-11-05,Engine Oil,147
+2017-11-06,Engine Oil,101
+2017-11-07,Engine Oil,127
+2017-11-08,Engine Oil,129
+2017-11-09,Engine Oil,136
+2017-11-10,Engine Oil,138
+2017-11-11,Engine Oil,153
+2017-11-12,Engine Oil,173
+2017-11-13,Engine Oil,97
+2017-11-14,Engine Oil,140
+2017-11-15,Engine Oil,111
+2017-11-16,Engine Oil,119
+2017-11-17,Engine Oil,132
+2017-11-18,Engine Oil,147
+2017-11-19,Engine Oil,150
+2017-11-20,Engine Oil,117
+2017-11-21,Engine Oil,139
+2017-11-22,Engine Oil,113
+2017-11-23,Engine Oil,119
+2017-11-24,Engine Oil,147
+2017-11-25,Engine Oil,173
+2017-11-26,Engine Oil,169
+2017-11-27,Engine Oil,98
+2017-11-28,Engine Oil,128
+2017-11-29,Engine Oil,121
+2017-11-30,Engine Oil,129
+2017-12-01,Engine Oil,98
+2017-12-02,Engine Oil,113
+2017-12-03,Engine Oil,105
+2017-12-04,Engine Oil,74
+2017-12-05,Engine Oil,88
+2017-12-06,Engine Oil,73
+2017-12-07,Engine Oil,116
+2017-12-08,Engine Oil,107
+2017-12-09,Engine Oil,101
+2017-12-10,Engine Oil,123
+2017-12-11,Engine Oil,66
+2017-12-12,Engine Oil,97
+2017-12-13,Engine Oil,71
+2017-12-14,Engine Oil,86
+2017-12-15,Engine Oil,118
+2017-12-16,Engine Oil,99
+2017-12-17,Engine Oil,95
+2017-12-18,Engine Oil,65
+2017-12-19,Engine Oil,72
+2017-12-20,Engine Oil,89
+2017-12-21,Engine Oil,102
+2017-12-22,Engine Oil,112
+2017-12-23,Engine Oil,107
+2017-12-24,Engine Oil,100
+2017-12-25,Engine Oil,75
+2017-12-26,Engine Oil,91
+2017-12-27,Engine Oil,82
+2017-12-28,Engine Oil,114
+2017-12-29,Engine Oil,101
+2017-12-30,Engine Oil,120
+2017-12-31,Engine Oil,104
+2016-01-31,Radiator,42
+2016-02-01,Radiator,26
+2016-02-02,Radiator,42
+2016-02-03,Radiator,28
+2016-02-04,Radiator,39
+2016-02-05,Radiator,53
+2016-02-06,Radiator,45
+2016-02-07,Radiator,42
+2016-02-08,Radiator,27
+2016-02-09,Radiator,31
+2016-02-10,Radiator,31
+2016-02-11,Radiator,39
+2016-02-12,Radiator,29
+2016-02-13,Radiator,47
+2016-02-14,Radiator,51
+2016-02-15,Radiator,30
+2016-02-16,Radiator,35
+2016-02-17,Radiator,29
+2016-02-18,Radiator,42
+2016-02-19,Radiator,45
+2016-02-20,Radiator,37
+2016-02-21,Radiator,42
+2016-02-22,Radiator,39
+2016-02-23,Radiator,32
+2016-02-24,Radiator,28
+2016-02-25,Radiator,43
+2016-02-26,Radiator,38
+2016-02-27,Radiator,60
+2016-02-28,Radiator,38
+2016-02-29,Radiator,25
+2016-03-01,Radiator,40
+2016-03-02,Radiator,36
+2016-03-03,Radiator,48
+2016-03-04,Radiator,61
+2016-03-05,Radiator,41
+2016-03-06,Radiator,55
+2016-03-07,Radiator,31
+2016-03-08,Radiator,36
+2016-03-09,Radiator,53
+2016-03-10,Radiator,47
+2016-03-11,Radiator,56
+2016-03-12,Radiator,61
+2016-03-13,Radiator,58
+2016-03-14,Radiator,38
+2016-03-15,Radiator,60
+2016-03-16,Radiator,51
+2016-03-17,Radiator,36
+2016-03-18,Radiator,60
+2016-03-19,Radiator,47
+2016-03-20,Radiator,47
+2016-03-21,Radiator,35
+2016-03-22,Radiator,41
+2016-03-23,Radiator,34
+2016-03-24,Radiator,46
+2016-03-25,Radiator,55
+2016-03-26,Radiator,62
+2016-03-27,Radiator,52
+2016-03-28,Radiator,34
+2016-03-29,Radiator,34
+2016-03-30,Radiator,40
+2016-03-31,Radiator,41
+2016-04-01,Radiator,71
+2016-04-02,Radiator,56
+2016-04-03,Radiator,57
+2016-04-04,Radiator,42
+2016-04-05,Radiator,43
+2016-04-06,Radiator,66
+2016-04-07,Radiator,58
+2016-04-08,Radiator,61
+2016-04-09,Radiator,54
+2016-04-10,Radiator,67
+2016-04-11,Radiator,28
+2016-04-12,Radiator,42
+2016-04-13,Radiator,52
+2016-04-14,Radiator,53
+2016-04-15,Radiator,73
+2016-04-16,Radiator,49
+2016-04-17,Radiator,72
+2016-04-18,Radiator,31
+2016-04-19,Radiator,50
+2016-04-20,Radiator,53
+2016-04-21,Radiator,41
+2016-04-22,Radiator,57
+2016-04-23,Radiator,57
+2016-04-24,Radiator,68
+2016-04-25,Radiator,42
+2016-04-26,Radiator,53
+2016-04-27,Radiator,46
+2016-04-28,Radiator,66
+2016-04-29,Radiator,41
+2016-04-30,Radiator,67
+2016-05-01,Radiator,72
+2016-05-02,Radiator,41
+2016-05-03,Radiator,39
+2016-05-04,Radiator,43
+2016-05-05,Radiator,63
+2016-05-06,Radiator,56
+2016-05-07,Radiator,68
+2016-05-08,Radiator,74
+2016-05-09,Radiator,33
+2016-05-10,Radiator,51
+2016-05-11,Radiator,61
+2016-05-12,Radiator,67
+2016-05-13,Radiator,64
+2016-05-14,Radiator,81
+2016-05-15,Radiator,71
+2016-05-16,Radiator,47
+2016-05-17,Radiator,43
+2016-05-18,Radiator,43
+2016-05-19,Radiator,59
+2016-05-20,Radiator,66
+2016-05-21,Radiator,57
+2016-05-22,Radiator,60
+2016-05-23,Radiator,51
+2016-05-24,Radiator,53
+2016-05-25,Radiator,57
+2016-05-26,Radiator,55
+2016-05-27,Radiator,51
+2016-05-28,Radiator,53
+2016-05-29,Radiator,69
+2016-05-30,Radiator,50
+2016-05-31,Radiator,56
+2016-06-01,Radiator,62
+2016-06-02,Radiator,62
+2016-06-03,Radiator,57
+2016-06-04,Radiator,66
+2016-06-05,Radiator,79
+2016-06-06,Radiator,41
+2016-06-07,Radiator,55
+2016-06-08,Radiator,59
+2016-06-09,Radiator,73
+2016-06-10,Radiator,73
+2016-06-11,Radiator,68
+2016-06-12,Radiator,78
+2016-06-13,Radiator,47
+2016-06-14,Radiator,64
+2016-06-15,Radiator,54
+2016-06-16,Radiator,78
+2016-06-17,Radiator,77
+2016-06-18,Radiator,72
+2016-06-19,Radiator,67
+2016-06-20,Radiator,61
+2016-06-21,Radiator,57
+2016-06-22,Radiator,62
+2016-06-23,Radiator,56
+2016-06-24,Radiator,57
+2016-06-25,Radiator,71
+2016-06-26,Radiator,72
+2016-06-27,Radiator,53
+2016-06-28,Radiator,44
+2016-06-29,Radiator,42
+2016-06-30,Radiator,50
+2016-07-01,Radiator,74
+2016-07-02,Radiator,94
+2016-07-03,Radiator,89
+2016-07-04,Radiator,54
+2016-07-05,Radiator,58
+2016-07-06,Radiator,70
+2016-07-07,Radiator,76
+2016-07-08,Radiator,79
+2016-07-09,Radiator,78
+2016-07-10,Radiator,75
+2016-07-11,Radiator,37
+2016-07-12,Radiator,46
+2016-07-13,Radiator,62
+2016-07-14,Radiator,77
+2016-07-15,Radiator,68
+2016-07-16,Radiator,65
+2016-07-17,Radiator,76
+2016-07-18,Radiator,50
+2016-07-19,Radiator,68
+2016-07-20,Radiator,56
+2016-07-21,Radiator,57
+2016-07-22,Radiator,64
+2016-07-23,Radiator,84
+2016-07-24,Radiator,88
+2016-07-25,Radiator,46
+2016-07-26,Radiator,52
+2016-07-27,Radiator,47
+2016-07-28,Radiator,64
+2016-07-29,Radiator,84
+2016-07-30,Radiator,84
+2016-07-31,Radiator,70
+2016-08-01,Radiator,54
+2016-08-02,Radiator,48
+2016-08-03,Radiator,52
+2016-08-04,Radiator,47
+2016-08-05,Radiator,61
+2016-08-06,Radiator,77
+2016-08-07,Radiator,63
+2016-08-08,Radiator,41
+2016-08-09,Radiator,55
+2016-08-10,Radiator,42
+2016-08-11,Radiator,66
+2016-08-12,Radiator,73
+2016-08-13,Radiator,68
+2016-08-14,Radiator,84
+2016-08-15,Radiator,44
+2016-08-16,Radiator,70
+2016-08-17,Radiator,59
+2016-08-18,Radiator,46
+2016-08-19,Radiator,62
+2016-08-20,Radiator,66
+2016-08-21,Radiator,76
+2016-08-22,Radiator,44
+2016-08-23,Radiator,55
+2016-08-24,Radiator,53
+2016-08-25,Radiator,57
+2016-08-26,Radiator,62
+2016-08-27,Radiator,62
+2016-08-28,Radiator,66
+2016-08-29,Radiator,56
+2016-08-30,Radiator,46
+2016-08-31,Radiator,55
+2016-09-01,Radiator,43
+2016-09-02,Radiator,46
+2016-09-03,Radiator,66
+2016-09-04,Radiator,68
+2016-09-05,Radiator,28
+2016-09-06,Radiator,40
+2016-09-07,Radiator,47
+2016-09-08,Radiator,49
+2016-09-09,Radiator,61
+2016-09-10,Radiator,59
+2016-09-11,Radiator,65
+2016-09-12,Radiator,41
+2016-09-13,Radiator,58
+2016-09-14,Radiator,55
+2016-09-15,Radiator,44
+2016-09-16,Radiator,62
+2016-09-17,Radiator,51
+2016-09-18,Radiator,61
+2016-09-19,Radiator,36
+2016-09-20,Radiator,44
+2016-09-21,Radiator,50
+2016-09-22,Radiator,41
+2016-09-23,Radiator,55
+2016-09-24,Radiator,55
+2016-09-25,Radiator,62
+2016-09-26,Radiator,25
+2016-09-27,Radiator,53
+2016-09-28,Radiator,42
+2016-09-29,Radiator,66
+2016-09-30,Radiator,59
+2016-10-01,Radiator,63
+2016-10-02,Radiator,49
+2016-10-03,Radiator,32
+2016-10-04,Radiator,48
+2016-10-05,Radiator,47
+2016-10-06,Radiator,57
+2016-10-07,Radiator,50
+2016-10-08,Radiator,56
+2016-10-09,Radiator,50
+2016-10-10,Radiator,34
+2016-10-11,Radiator,36
+2016-10-12,Radiator,55
+2016-10-13,Radiator,57
+2016-10-14,Radiator,60
+2016-10-15,Radiator,61
+2016-10-16,Radiator,71
+2016-10-17,Radiator,29
+2016-10-18,Radiator,30
+2016-10-19,Radiator,45
+2016-10-20,Radiator,51
+2016-10-21,Radiator,47
+2016-10-22,Radiator,53
+2016-10-23,Radiator,63
+2016-10-24,Radiator,38
+2016-10-25,Radiator,52
+2016-10-26,Radiator,52
+2016-10-27,Radiator,52
+2016-10-28,Radiator,58
+2016-10-29,Radiator,55
+2016-10-30,Radiator,57
+2016-10-31,Radiator,51
+2016-11-01,Radiator,50
+2016-11-02,Radiator,57
+2016-11-03,Radiator,57
+2016-11-04,Radiator,65
+2016-11-05,Radiator,43
+2016-11-06,Radiator,64
+2016-11-07,Radiator,48
+2016-11-08,Radiator,50
+2016-11-09,Radiator,50
+2016-11-10,Radiator,62
+2016-11-11,Radiator,54
+2016-11-12,Radiator,73
+2016-11-13,Radiator,53
+2016-11-14,Radiator,39
+2016-11-15,Radiator,51
+2016-11-16,Radiator,57
+2016-11-17,Radiator,51
+2016-11-18,Radiator,69
+2016-11-19,Radiator,75
+2016-11-20,Radiator,64
+2016-11-21,Radiator,46
+2016-11-22,Radiator,53
+2016-11-23,Radiator,50
+2016-11-24,Radiator,44
+2016-11-25,Radiator,72
+2016-11-26,Radiator,76
+2016-11-27,Radiator,58
+2016-11-28,Radiator,40
+2016-11-29,Radiator,45
+2016-11-30,Radiator,50
+2016-12-01,Radiator,38
+2016-12-02,Radiator,35
+2016-12-03,Radiator,49
+2016-12-04,Radiator,48
+2016-12-05,Radiator,33
+2016-12-06,Radiator,38
+2016-12-07,Radiator,27
+2016-12-08,Radiator,45
+2016-12-09,Radiator,48
+2016-12-10,Radiator,41
+2016-12-11,Radiator,44
+2016-12-12,Radiator,34
+2016-12-13,Radiator,31
+2016-12-14,Radiator,39
+2016-12-15,Radiator,33
+2016-12-16,Radiator,45
+2016-12-17,Radiator,42
+2016-12-18,Radiator,47
+2016-12-19,Radiator,33
+2016-12-20,Radiator,36
+2016-12-21,Radiator,33
+2016-12-22,Radiator,39
+2016-12-23,Radiator,41
+2016-12-24,Radiator,47
+2016-12-25,Radiator,48
+2016-12-26,Radiator,34
+2016-12-27,Radiator,29
+2016-12-28,Radiator,28
+2016-12-29,Radiator,41
+2016-12-30,Radiator,49
+2016-12-31,Radiator,57
+2017-01-01,Radiator,43
+2017-01-02,Radiator,25
+2017-01-03,Radiator,27
+2017-01-04,Radiator,33
+2017-01-05,Radiator,43
+2017-01-06,Radiator,33
+2017-01-07,Radiator,49
+2017-01-08,Radiator,40
+2017-01-09,Radiator,36
+2017-01-10,Radiator,33
+2017-01-11,Radiator,36
+2017-01-12,Radiator,38
+2017-01-13,Radiator,35
+2017-01-14,Radiator,33
+2017-01-15,Radiator,41
+2017-01-16,Radiator,22
+2017-01-17,Radiator,35
+2017-01-18,Radiator,32
+2017-01-19,Radiator,42
+2017-01-20,Radiator,34
+2017-01-21,Radiator,46
+2017-01-22,Radiator,45
+2017-01-23,Radiator,35
+2017-01-24,Radiator,33
+2017-01-25,Radiator,38
+2017-01-26,Radiator,45
+2017-01-27,Radiator,48
+2017-01-28,Radiator,39
+2017-01-29,Radiator,48
+2017-01-30,Radiator,40
+2017-01-31,Radiator,32
+2017-02-01,Radiator,50
+2017-02-02,Radiator,40
+2017-02-03,Radiator,47
+2017-02-04,Radiator,47
+2017-02-05,Radiator,47
+2017-02-06,Radiator,23
+2017-02-07,Radiator,32
+2017-02-08,Radiator,42
+2017-02-09,Radiator,44
+2017-02-10,Radiator,41
+2017-02-11,Radiator,37
+2017-02-12,Radiator,49
+2017-02-13,Radiator,38
+2017-02-14,Radiator,36
+2017-02-15,Radiator,44
+2017-02-16,Radiator,43
+2017-02-17,Radiator,48
+2017-02-18,Radiator,43
+2017-02-19,Radiator,48
+2017-02-20,Radiator,33
+2017-02-21,Radiator,30
+2017-02-22,Radiator,32
+2017-02-23,Radiator,36
+2017-02-24,Radiator,49
+2017-02-25,Radiator,47
+2017-02-26,Radiator,63
+2017-02-27,Radiator,30
+2017-02-28,Radiator,35
+2017-03-01,Radiator,40
+2017-03-02,Radiator,49
+2017-03-03,Radiator,48
+2017-03-04,Radiator,54
+2017-03-05,Radiator,55
+2017-03-06,Radiator,44
+2017-03-07,Radiator,54
+2017-03-08,Radiator,46
+2017-03-09,Radiator,47
+2017-03-10,Radiator,48
+2017-03-11,Radiator,61
+2017-03-12,Radiator,63
+2017-03-13,Radiator,40
+2017-03-14,Radiator,39
+2017-03-15,Radiator,49
+2017-03-16,Radiator,39
+2017-03-17,Radiator,64
+2017-03-18,Radiator,59
+2017-03-19,Radiator,67
+2017-03-20,Radiator,33
+2017-03-21,Radiator,45
+2017-03-22,Radiator,51
+2017-03-23,Radiator,43
+2017-03-24,Radiator,51
+2017-03-25,Radiator,42
+2017-03-26,Radiator,46
+2017-03-27,Radiator,40
+2017-03-28,Radiator,40
+2017-03-29,Radiator,40
+2017-03-30,Radiator,50
+2017-03-31,Radiator,53
+2017-04-01,Radiator,56
+2017-04-02,Radiator,61
+2017-04-03,Radiator,44
+2017-04-04,Radiator,52
+2017-04-05,Radiator,56
+2017-04-06,Radiator,57
+2017-04-07,Radiator,51
+2017-04-08,Radiator,69
+2017-04-09,Radiator,64
+2017-04-10,Radiator,38
+2017-04-11,Radiator,42
+2017-04-12,Radiator,56
+2017-04-13,Radiator,60
+2017-04-14,Radiator,55
+2017-04-15,Radiator,68
+2017-04-16,Radiator,61
+2017-04-17,Radiator,56
+2017-04-18,Radiator,46
+2017-04-19,Radiator,50
+2017-04-20,Radiator,51
+2017-04-21,Radiator,56
+2017-04-22,Radiator,63
+2017-04-23,Radiator,79
+2017-04-24,Radiator,45
+2017-04-25,Radiator,57
+2017-04-26,Radiator,64
+2017-04-27,Radiator,49
+2017-04-28,Radiator,61
+2017-04-29,Radiator,67
+2017-04-30,Radiator,64
+2017-05-01,Radiator,41
+2017-05-02,Radiator,70
+2017-05-03,Radiator,56
+2017-05-04,Radiator,69
+2017-05-05,Radiator,55
+2017-05-06,Radiator,63
+2017-05-07,Radiator,65
+2017-05-08,Radiator,42
+2017-05-09,Radiator,39
+2017-05-10,Radiator,61
+2017-05-11,Radiator,53
+2017-05-12,Radiator,61
+2017-05-13,Radiator,65
+2017-05-14,Radiator,66
+2017-05-15,Radiator,49
+2017-05-16,Radiator,55
+2017-05-17,Radiator,64
+2017-05-18,Radiator,60
+2017-05-19,Radiator,61
+2017-05-20,Radiator,64
+2017-05-21,Radiator,73
+2017-05-22,Radiator,40
+2017-05-23,Radiator,58
+2017-05-24,Radiator,46
+2017-05-25,Radiator,57
+2017-05-26,Radiator,82
+2017-05-27,Radiator,59
+2017-05-28,Radiator,65
+2017-05-29,Radiator,47
+2017-05-30,Radiator,53
+2017-05-31,Radiator,59
+2017-06-01,Radiator,70
+2017-06-02,Radiator,72
+2017-06-03,Radiator,78
+2017-06-04,Radiator,78
+2017-06-05,Radiator,67
+2017-06-06,Radiator,71
+2017-06-07,Radiator,79
+2017-06-08,Radiator,63
+2017-06-09,Radiator,71
+2017-06-10,Radiator,69
+2017-06-11,Radiator,57
+2017-06-12,Radiator,40
+2017-06-13,Radiator,47
+2017-06-14,Radiator,54
+2017-06-15,Radiator,59
+2017-06-16,Radiator,64
+2017-06-17,Radiator,71
+2017-06-18,Radiator,66
+2017-06-19,Radiator,54
+2017-06-20,Radiator,52
+2017-06-21,Radiator,72
+2017-06-22,Radiator,84
+2017-06-23,Radiator,69
+2017-06-24,Radiator,74
+2017-06-25,Radiator,62
+2017-06-26,Radiator,40
+2017-06-27,Radiator,65
+2017-06-28,Radiator,54
+2017-06-29,Radiator,68
+2017-06-30,Radiator,62
+2017-07-01,Radiator,74
+2017-07-02,Radiator,72
+2017-07-03,Radiator,62
+2017-07-04,Radiator,63
+2017-07-05,Radiator,62
+2017-07-06,Radiator,73
+2017-07-07,Radiator,82
+2017-07-08,Radiator,76
+2017-07-09,Radiator,77
+2017-07-10,Radiator,39
+2017-07-11,Radiator,58
+2017-07-12,Radiator,66
+2017-07-13,Radiator,73
+2017-07-14,Radiator,67
+2017-07-15,Radiator,71
+2017-07-16,Radiator,75
+2017-07-17,Radiator,45
+2017-07-18,Radiator,59
+2017-07-19,Radiator,55
+2017-07-20,Radiator,76
+2017-07-21,Radiator,75
+2017-07-22,Radiator,71
+2017-07-23,Radiator,89
+2017-07-24,Radiator,55
+2017-07-25,Radiator,63
+2017-07-26,Radiator,58
+2017-07-27,Radiator,60
+2017-07-28,Radiator,63
+2017-07-29,Radiator,63
+2017-07-30,Radiator,65
+2017-07-31,Radiator,56
+2017-08-01,Radiator,55
+2017-08-02,Radiator,59
+2017-08-03,Radiator,57
+2017-08-04,Radiator,79
+2017-08-05,Radiator,57
+2017-08-06,Radiator,60
+2017-08-07,Radiator,56
+2017-08-08,Radiator,61
+2017-08-09,Radiator,45
+2017-08-10,Radiator,60
+2017-08-11,Radiator,69
+2017-08-12,Radiator,78
+2017-08-13,Radiator,72
+2017-08-14,Radiator,63
+2017-08-15,Radiator,64
+2017-08-16,Radiator,60
+2017-08-17,Radiator,52
+2017-08-18,Radiator,74
+2017-08-19,Radiator,67
+2017-08-20,Radiator,56
+2017-08-21,Radiator,46
+2017-08-22,Radiator,48
+2017-08-23,Radiator,63
+2017-08-24,Radiator,45
+2017-08-25,Radiator,64
+2017-08-26,Radiator,62
+2017-08-27,Radiator,71
+2017-08-28,Radiator,50
+2017-08-29,Radiator,57
+2017-08-30,Radiator,52
+2017-08-31,Radiator,58
+2017-09-01,Radiator,47
+2017-09-02,Radiator,60
+2017-09-03,Radiator,56
+2017-09-04,Radiator,50
+2017-09-05,Radiator,60
+2017-09-06,Radiator,48
+2017-09-07,Radiator,48
+2017-09-08,Radiator,62
+2017-09-09,Radiator,58
+2017-09-10,Radiator,61
+2017-09-11,Radiator,61
+2017-09-12,Radiator,53
+2017-09-13,Radiator,41
+2017-09-14,Radiator,64
+2017-09-15,Radiator,59
+2017-09-16,Radiator,68
+2017-09-17,Radiator,67
+2017-09-18,Radiator,46
+2017-09-19,Radiator,56
+2017-09-20,Radiator,47
+2017-09-21,Radiator,61
+2017-09-22,Radiator,59
+2017-09-23,Radiator,62
+2017-09-24,Radiator,69
+2017-09-25,Radiator,34
+2017-09-26,Radiator,52
+2017-09-27,Radiator,43
+2017-09-28,Radiator,42
+2017-09-29,Radiator,59
+2017-09-30,Radiator,56
+2017-10-01,Radiator,50
+2017-10-02,Radiator,47
+2017-10-03,Radiator,47
+2017-10-04,Radiator,45
+2017-10-05,Radiator,32
+2017-10-06,Radiator,52
+2017-10-07,Radiator,66
+2017-10-08,Radiator,51
+2017-10-09,Radiator,45
+2017-10-10,Radiator,40
+2017-10-11,Radiator,36
+2017-10-12,Radiator,52
+2017-10-13,Radiator,51
+2017-10-14,Radiator,49
+2017-10-15,Radiator,77
+2017-10-16,Radiator,41
+2017-10-17,Radiator,48
+2017-10-18,Radiator,52
+2017-10-19,Radiator,54
+2017-10-20,Radiator,53
+2017-10-21,Radiator,63
+2017-10-22,Radiator,76
+2017-10-23,Radiator,44
+2017-10-24,Radiator,46
+2017-10-25,Radiator,54
+2017-10-26,Radiator,46
+2017-10-27,Radiator,53
+2017-10-28,Radiator,57
+2017-10-29,Radiator,61
+2017-10-30,Radiator,41
+2017-10-31,Radiator,50
+2017-11-01,Radiator,50
+2017-11-02,Radiator,63
+2017-11-03,Radiator,57
+2017-11-04,Radiator,70
+2017-11-05,Radiator,58
+2017-11-06,Radiator,33
+2017-11-07,Radiator,52
+2017-11-08,Radiator,55
+2017-11-09,Radiator,63
+2017-11-10,Radiator,57
+2017-11-11,Radiator,69
+2017-11-12,Radiator,78
+2017-11-13,Radiator,49
+2017-11-14,Radiator,43
+2017-11-15,Radiator,73
+2017-11-16,Radiator,53
+2017-11-17,Radiator,61
+2017-11-18,Radiator,72
+2017-11-19,Radiator,73
+2017-11-20,Radiator,41
+2017-11-21,Radiator,54
+2017-11-22,Radiator,61
+2017-11-23,Radiator,64
+2017-11-24,Radiator,52
+2017-11-25,Radiator,69
+2017-11-26,Radiator,65
+2017-11-27,Radiator,47
+2017-11-28,Radiator,61
+2017-11-29,Radiator,53
+2017-11-30,Radiator,64
+2017-12-01,Radiator,40
+2017-12-02,Radiator,52
+2017-12-03,Radiator,52
+2017-12-04,Radiator,35
+2017-12-05,Radiator,34
+2017-12-06,Radiator,30
+2017-12-07,Radiator,25
+2017-12-08,Radiator,44
+2017-12-09,Radiator,51
+2017-12-10,Radiator,56
+2017-12-11,Radiator,43
+2017-12-12,Radiator,38
+2017-12-13,Radiator,42
+2017-12-14,Radiator,50
+2017-12-15,Radiator,44
+2017-12-16,Radiator,66
+2017-12-17,Radiator,53
+2017-12-18,Radiator,39
+2017-12-19,Radiator,37
+2017-12-20,Radiator,39
+2017-12-21,Radiator,52
+2017-12-22,Radiator,39
+2017-12-23,Radiator,49
+2017-12-24,Radiator,42
+2017-12-25,Radiator,27
+2017-12-26,Radiator,48
+2017-12-27,Radiator,36
+2017-12-28,Radiator,40
+2017-12-29,Radiator,33
+2017-12-30,Radiator,35
+2017-12-31,Radiator,54

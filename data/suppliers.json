@@ -1,0 +1,26 @@
+{
+  "engine-oil-supplier-1": {
+    "name": "LubriMax Distributors",
+    "product": "engine-oil",
+    "lead_time_days": 7,
+    "lead_time_variability": 3,
+    "reliability_score": 0.87,
+    "contact": "support@lubrimax.com"
+  },
+  "brake-pads-supplier-1": {
+    "name": "AutoParts Hub",
+    "product": "brake-pads",
+    "lead_time_days": 10,
+    "lead_time_variability": 4,
+    "reliability_score": 0.82,
+    "contact": "sales@autoparts.com"
+  },
+  "radiator-supplier-1": {
+    "name": "CoolCore Components",
+    "product": "radiator",
+    "lead_time_days": 14,
+    "lead_time_variability": 5,
+    "reliability_score": 0.78,
+    "contact": "orders@coolcore.com"
+  }
+}

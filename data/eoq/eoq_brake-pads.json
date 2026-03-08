@@ -1,0 +1,12 @@
+{
+  "product": "Brake Pads",
+  "annual_demand_est": 637.91,
+  "unit_price": 2500,
+  "ordering_cost": 1200,
+  "holding_cost": 450.0,
+  "EOQ": 58.33,
+  "lead_time_days": 5,
+  "safety_stock": 4.02,
+  "reorder_point": 12.76,
+  "service_level": "95%"
+}

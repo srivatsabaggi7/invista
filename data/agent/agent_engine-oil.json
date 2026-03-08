@@ -1,0 +1,26 @@
+{
+  "agent_outputs": {
+    "ForecastAgent": {
+      "uncertainty": 12.58
+    },
+    "EOQAgent": {
+      "EOQ": 63.39,
+      "ROP": 23.61,
+      "SafetyStock": 7.42
+    },
+    "SupplierAgent": {
+      "lead_time_range": "4-10 days",
+      "risk": "Moderate"
+    },
+    "AnomalyAgent": {
+      "anomaly_detected": true
+    },
+    "OptimizationAgent": {
+      "strategy": "avoid_shortage"
+    },
+    "DecisionAgent": {
+      "decision": "ORDER NOW",
+      "reason": "inventory below adjusted ROP"
+    }
+  }
+}

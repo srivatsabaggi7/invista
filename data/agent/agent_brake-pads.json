@@ -1,0 +1,27 @@
+{
+  "product": "Brake Pads",
+  "agent_outputs": {
+    "ForecastAgent": {
+      "uncertainty": 9.67
+    },
+    "EOQAgent": {
+      "EOQ": 58.33,
+      "ROP": 12.76,
+      "SafetyStock": 4.02
+    },
+    "SupplierAgent": {
+      "lead_time_range": "3-7 days",
+      "risk": "Low"
+    },
+    "AnomalyAgent": {
+      "anomaly_detected": true
+    },
+    "OptimizationAgent": {
+      "strategy": "avoid_shortage"
+    },
+    "DecisionAgent": {
+      "decision": "ORDER NOW",
+      "reason": "inventory below adjusted ROP"
+    }
+  }
+}

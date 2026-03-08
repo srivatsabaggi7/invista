@@ -1,0 +1,17 @@
+{
+  "annual_demand_est": 843.97,
+  "unit_price": 3500,
+  "ordering_cost": 1500,
+  "holding_cost": 630.0,
+  "EOQ": 63.39,
+  "lead_time_days": 7,
+  "safety_stock": 7.42,
+  "reorder_point": 23.61,
+  "service_level": "95%",
+  "notes": [
+    "Hybrid Prophet+Historical for annual demand",
+    "Safety stock via LSTM variance",
+    "Lead time protection considered",
+    "Supports agentic decision-making"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "engine-oil": {
+    "name": "Engine Oil",
+    "unit_price": 3500,
+    "uom": "Units",
+    "category": "Automotive Consumables",
+    "description": "High-demand automotive consumable with seasonal patterns and stable retail demand."
+  },
+  "brake-pads": {
+    "name": "Brake Pads",
+    "unit_price": 1800,
+    "uom": "Units",
+    "category": "Automotive Consumables",
+    "description": "Medium-demand part with intermittent replacement cycles and smaller stock consumption."
+  },
+  "radiator": {
+    "name": "Radiator",
+    "unit_price": 6500,
+    "uom": "Units",
+    "category": "Automotive Components",
+    "description": "Low-demand, high-value part with irregular spikes due to breakdown events."
+  }
+}
