@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Specific
+data/decisions/decisions.json
+data/logs/system_logs.json
+data/inventory/inventory.json
+INVISTA.pptx
+INVISTA.zip
+temp_pptx_content/
