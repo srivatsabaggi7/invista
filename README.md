@@ -24,7 +24,7 @@
 - **Backend**: Node.js, Express.js (RESTful API Orchestration)
 - **AI Core**: Python 3.11, NumPy, Pandas, Scikit-learn, Prophet
 - **Data Persistence**: JSON-based Document Store (Scalable to MongoDB/PostgreSQL)
-- **Agent Framework**: Custom Multi-Agent Orchestration (Inspired by LangGraph/CrewAI)
+- **Agent Framework**: Custom Multi-Agent Orchestration (Inspired by LangGraph)
 
 ---
 
